@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UEProject/Gerasimovskaya_1264/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/VR_Inventorys/VRTemplate/Blueprints/BP_VRPawn.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/GDXR_VR_Template/Blueprints/BP_VR_Character.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/BP/tablet/ChekingTasksCSV.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Cable/GophraCable/GophraCable_AO.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Cable/GophraCable/GophraCable_Normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Cable/GophraCable/GophraCable_Rough.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Cable/GophraCable/opacity.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/barbed_wire/metal_0027_color_2k.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/barbed_wire/metal_0027_normal_directx_2k.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/barbed_wire/metal_0027_opacity_2k.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/barbed_wire/metal_0027_roughness_2k.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/Fencing_Net/Fencing_Net-normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/Fencing_Net/Fencing_Net-opacity.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/Fencing_NetOLD/Fencing_Net-normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/Fencing_NetOLD/Fencing_Net-opacity.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Grass/Grass_diffuse.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Grass/Grass_height.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Grass/Grass_normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Grass/Grass_occlusionRoughnessHeight.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Road/asphalt_floor_ao.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Road/asphalt_floor_arm.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Road/asphalt_floor_diff.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Road/asphalt_floor_disp.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Road/asphalt_floor_normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Road/asphalt_floor_rough.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow/Snow_diffuse.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow/Snow_height.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow/Snow_normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow/Snow_orm.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow2/Snow_diffuse.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow2/Snow_normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow2/Snow_occlusion.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/POM_Materials/M_Snow2/Snow_rough.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/Fency/Fencing_Net/Fencing_Net-normal.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Materials/fency/Fency/Fencing_Net/Fencing_Net-opacity.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/BP/tablet/ChekingTasks.uasset",
+				"D:/UEProject/Gerasimovskaya_1264/Content/Map/1264_Summer.umap"
+			]
+		}
+	]
+}

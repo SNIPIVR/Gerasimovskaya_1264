@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRExpansionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\Gerasimovskaya_1264Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h.obj"
+"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
+"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\Default.rc2.res"
+/OUT:"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionEditor\UnrealEditor-VRExpansionEditor.lib"

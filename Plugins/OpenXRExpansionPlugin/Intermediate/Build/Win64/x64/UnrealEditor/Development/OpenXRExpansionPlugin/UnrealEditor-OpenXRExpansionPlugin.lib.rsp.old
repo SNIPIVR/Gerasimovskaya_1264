@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenXRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Default.rc2.res"
+/OUT:"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\UnrealEditor-OpenXRExpansionPlugin.lib"

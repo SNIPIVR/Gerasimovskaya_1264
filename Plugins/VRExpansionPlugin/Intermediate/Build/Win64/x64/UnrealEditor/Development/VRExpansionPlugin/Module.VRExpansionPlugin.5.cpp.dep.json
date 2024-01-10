@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\module.vrexpansionplugin.5.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ueproject\\gerasimovskaya_1264\\intermediate\\build\\win64\\x64\\gerasimovskaya_1264editor\\development\\unrealed\\sharedpch.unrealed.cpp17.h.pch",
+        "Includes": [
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\vrtrackedparentinterface.cpp",
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrtrackedparentinterface.h",
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "d:\\egs\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "d:\\egs\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrbpdatatypes.generated.h",
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.generated.h",
+            "d:\\ueproject\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
