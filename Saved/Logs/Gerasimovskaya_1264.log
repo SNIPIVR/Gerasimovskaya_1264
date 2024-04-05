@@ -1660,3 +1660,4 @@ Make sure 'VRPawn_BP' has been compiled for  Close Menu
 [2024.04.05-08.02.07:635][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.13 sec (total: 7.68 sec)
 [2024.04.05-08.02.07:681][523]AssetCheck: New page: Asset Save: 1264_Summer
 [2024.04.05-08.02.07:681][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/1264_Summer.1264_Summer
+[2024.04.05-08.04.40:527][171]LogSlate: Took 0.006846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
