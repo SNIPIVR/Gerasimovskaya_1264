@@ -1,11 +1,11 @@
-"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp"
-/FI"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/FI"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Definitions.OpenXRExpansionPlugin.h"
-/Yu"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/Fp"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
-/sourceDependencies "D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.dep.json"
-@"D:\UEProject\Gerasimovskaya_1264\Plugins\VRExpansionPlugin-Master\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\OpenXRExpansionPlugin.Shared.rsp"
+"D:\UEProject\Gerasimovskaya_1264\Plugins\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp"
+/FI"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\Gerasimovskaya_1264Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h"
+/FI"D:\UEProject\Gerasimovskaya_1264\Plugins\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Definitions.OpenXRExpansionPlugin.h"
+/Yu"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\Gerasimovskaya_1264Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h"
+/Fp"D:\UEProject\Gerasimovskaya_1264\Intermediate\Build\Win64\x64\Gerasimovskaya_1264Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h.pch"
+/Fo"D:\UEProject\Gerasimovskaya_1264\Plugins\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.obj"
+/sourceDependencies "D:\UEProject\Gerasimovskaya_1264\Plugins\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\Module.OpenXRExpansionPlugin.cpp.dep.json"
+@"D:\UEProject\Gerasimovskaya_1264\Plugins\OpenXRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenXRExpansionPlugin\OpenXRExpansionPlugin.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
@@ -15,9 +15,7 @@
 /Gy
 /utf-8
 /wd4819
-/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
-/permissive-
-/Zc:strictStrings-
+/Zc:hiddenFriend
 /Zc:__cplusplus
 /D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
 /D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
@@ -45,6 +43,4 @@
 /TP
 /GR-
 /W4
-/std:c++20
-/Zc:preprocessor
-/wd5054
+/std:c++17

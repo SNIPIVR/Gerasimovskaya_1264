@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Gerasimovskaya_1264",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OpenXR",
@@ -69,9 +76,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"Linux",
 		"Mac",
 		"PS4",
 		"PS5",

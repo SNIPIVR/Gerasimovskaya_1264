@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\module.vrexpansionplugin.5.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gerasimovskaya_1264\\intermediate\\build\\win64\\x64\\gerasimovskaya_1264editor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\vrtrackedparentinterface.cpp",
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrtrackedparentinterface.h",
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrbpdatatypes.generated.h",
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.generated.h",
+            "d:\\gerasimovskaya_1264\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
