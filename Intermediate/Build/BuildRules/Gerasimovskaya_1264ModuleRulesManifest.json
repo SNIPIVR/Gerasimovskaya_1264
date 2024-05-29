@@ -1,11 +1,14 @@
 {
 	"SourceFiles": [
+		"D:\\Gerasimovskaya_1264\\Source\\Gerasimovskaya_1264\\Gerasimovskaya_1264.Build.cs",
 		"D:\\Gerasimovskaya_1264\\Plugins\\BLUI-Unreal\\Source\\BluLoader\\BluLoader.Build.cs",
 		"D:\\Gerasimovskaya_1264\\Plugins\\BLUI-Unreal\\Source\\Blu\\Blu.Build.cs",
 		"D:\\Gerasimovskaya_1264\\Plugins\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
 		"D:\\Gerasimovskaya_1264\\Plugins\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
 		"D:\\Gerasimovskaya_1264\\Plugins\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
-		"D:\\Gerasimovskaya_1264\\Plugins\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs"
+		"D:\\Gerasimovskaya_1264\\Plugins\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"D:\\Gerasimovskaya_1264\\Source\\Gerasimovskaya_1264.Target.cs",
+		"D:\\Gerasimovskaya_1264\\Source\\Gerasimovskaya_1264Editor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gerasimovskaya_1264\\source\\gerasimovskaya_1264\\private\\test.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gerasimovskaya_1264\\intermediate\\build\\win64\\x64\\gerasimovskaya_1264\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\gerasimovskaya_1264\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\gerasimovskaya_1264\\definitions.gerasimovskaya_1264.h",
+            "d:\\gerasimovskaya_1264\\source\\gerasimovskaya_1264\\public\\test.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

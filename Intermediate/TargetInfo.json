@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Gerasimovskaya_1264",
+			"Path": "..\\Source\\Gerasimovskaya_1264.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Gerasimovskaya_1264Editor",
+			"Path": "..\\Source\\Gerasimovskaya_1264Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
