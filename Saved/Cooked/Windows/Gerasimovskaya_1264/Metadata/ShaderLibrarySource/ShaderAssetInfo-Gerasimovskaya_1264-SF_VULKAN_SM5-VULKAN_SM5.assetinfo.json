@@ -76,7 +76,6 @@
 		{
 			"ShaderMapHash": "566B940C6CD1E4D56275D296133E4620CFE505C7",
 			"Assets": [
-				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
 				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
 			]
 		},
@@ -174,11 +173,7 @@
 		{
 			"ShaderMapHash": "A38DEF1847C41AB16C372CB619A0BFB7FD08F48E",
 			"Assets": [
-				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
-				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
-				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
-				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
-				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
 			]
 		},
 		{
@@ -730,7 +725,6 @@
 		{
 			"ShaderMapHash": "F9B3EA537E978A4717B5ACCFDD89C4786D71CA77",
 			"Assets": [
-				"/Game/GDXR_VR_Template/Materials/GridMaterials/M_GridRotation",
 				"/Game/GDXR_VR_Template/Materials/GridMaterials/MI_Grid_Grey"
 			]
 		},
@@ -743,7 +737,6 @@
 		{
 			"ShaderMapHash": "6032BD55488FB9879E07391074274EEFC86C5BAC",
 			"Assets": [
-				"/Game/Materials/fency/Fencing_Net/Fencing_Net-opacity_Mat",
 				"/Game/Materials/fency/Fency/Fencing_Net/Fencing_Net-opacity_Mat"
 			]
 		},
@@ -888,7 +881,6 @@
 		{
 			"ShaderMapHash": "80B30166A5F76D9865944818064F48B669A9EE1A",
 			"Assets": [
-				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
 				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
 			]
 		},
@@ -925,7 +917,6 @@
 		{
 			"ShaderMapHash": "33B0506B9F98D06A2906B5C6E21FA7277196AB4A",
 			"Assets": [
-				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_Default",
 				"/Game/UltraDynamicSky/Materials/Space/Space_Planet_Mat"
 			]
 		},
@@ -956,8 +947,7 @@
 		{
 			"ShaderMapHash": "9EA129712F98D390332DE5D52FCE0A67B6991850",
 			"Assets": [
-				"/Game/GDXR_VR_Template/DemoContent/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
-				"/Game/GDXR_VR_Template/DemoContent/ControlRig/Characters/Mannequins/Materials/M_Mannequin"
+				"/Game/GDXR_VR_Template/DemoContent/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
 			]
 		},
 		{
@@ -1183,8 +1173,7 @@
 		{
 			"ShaderMapHash": "ACE7958BB092A73F14090B4981688B492CC1EF66",
 			"Assets": [
-				"/Game/BP/cupboard/Materials/Material_009",
-				"/Game/cupboard/Materials/Material_009"
+				"/Game/BP/cupboard/Materials/Material_009"
 			]
 		},
 		{
@@ -1377,7 +1366,6 @@
 		{
 			"ShaderMapHash": "7A468FA059E0141B68DBA25DC73A5BDA035353FD",
 			"Assets": [
-				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
 				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
 			]
 		},
@@ -2037,7 +2025,6 @@
 		{
 			"ShaderMapHash": "78F1BEE17D1E7084C08E6E5B2946EDD456EE97EE",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
 				"/Game/GDXR_VR_Template/Materials/WidgetMaterials/M_Widget3DPassThrough"
 			]
@@ -2100,17 +2087,13 @@
 				"/Game/BP/All_key/Stainless_Steel",
 				"/Game/BP/All_key/TextPlace_Birka",
 				"/Game/BP/cupboard/Materials/Display",
-				"/Game/BP/cupboard/Materials/Green_Light",
 				"/Game/BP/cupboard/Materials/Indicator",
 				"/Game/BP/cupboard/Materials/Material_001",
 				"/Game/BP/cupboard/Materials/Material_007",
 				"/Game/BP/cupboard/Materials/Material_010",
 				"/Game/BP/cupboard/Materials/Material_014",
 				"/Game/BP/cupboard/Materials/Orange_Light",
-				"/Game/BP/cupboard/Materials/Plastic",
 				"/Game/BP/cupboard/Materials/RAL_9011",
-				"/Game/BP/cupboard/Materials/RAL_9012",
-				"/Game/BP/cupboard/Materials/Red_Light",
 				"/Game/BP/cupboard/Materials/Rubber",
 				"/Game/BP/cupboard/Props/Isolated_Cable",
 				"/Game/BP/cupboard/Props/Rubber",
@@ -2120,15 +2103,11 @@
 				"/Game/BP/Door1264/Color",
 				"/Game/BP/Door1264/RAL_9011",
 				"/Game/BP/Not_Include/Material_003",
-				"/Game/cupboard/Materials/Display",
 				"/Game/cupboard/Materials/Green_Light",
-				"/Game/cupboard/Materials/Material_010",
 				"/Game/cupboard/Materials/Plastic",
 				"/Game/cupboard/Materials/RAL_9003",
-				"/Game/cupboard/Materials/RAL_9011",
 				"/Game/cupboard/Materials/RAL_9012",
 				"/Game/cupboard/Materials/Red_Light",
-				"/Game/cupboard/RAL_9003",
 				"/Game/cupboard/RAS/Material",
 				"/Game/cupboard/RAS/Material_004",
 				"/Game/cupboard/RAS/Material_007",
@@ -2294,15 +2273,12 @@
 		{
 			"ShaderMapHash": "3AB9FFF15C39514EB5B4B9E0402A09BABFEF050F",
 			"Assets": [
-				"/Game/BP/cupboard/Materials/Conductor",
-				"/Game/BP/cupboard/Materials/RPN1",
 				"/Game/BP/cupboard/Props/M_Bresler_297x297mm",
 				"/Game/BP/cupboard/Props/M_Bresler_297x417mm",
 				"/Game/BP/cupboard/Props/M_Bresler_297x521mm",
 				"/Game/BP/cupboard/Props/M_Bresler_OL_297x221mm",
 				"/Game/BP/cupboard/Props/М_Bresler_297x221mm_Mat",
 				"/Game/BP/cupboard/Props/М_Bresler_297x221mm_Mat_V2",
-				"/Game/BP/cupboard/Schemes/1Y_Scheme",
 				"/Game/BP/Not_Include/Material_014",
 				"/Game/cupboard/Cupboar_Element/SET-4TM",
 				"/Game/cupboard/Materials/Bresler",
@@ -2495,7 +2471,6 @@
 		{
 			"ShaderMapHash": "0295B7F4E79C3668BB45B5773F0E48A6D9FAB27A",
 			"Assets": [
-				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
 				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
 			]
 		},
@@ -2536,9 +2511,6 @@
 				"/Game/BP/cupboard/Materials/Indicator_Emission",
 				"/Game/BP/cupboard/Materials/Orange_Light_Emissive",
 				"/Game/BP/cupboard/Materials/Red_Light_Emissive",
-				"/Game/cupboard/Materials/Green_Light_Emissive",
-				"/Game/cupboard/Materials/Indicator_Emission",
-				"/Game/cupboard/Materials/Red_Light_Emissive",
 				"/Game/VRE/Grippables/Misc/Examples/Button/Green"
 			]
 		},
