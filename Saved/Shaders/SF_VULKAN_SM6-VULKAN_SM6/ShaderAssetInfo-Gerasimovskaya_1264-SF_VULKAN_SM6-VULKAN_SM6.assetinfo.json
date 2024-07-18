@@ -1,0 +1,2952 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "90E509001D02EB83EA14F42EBC8BC9592BCBBEB6",
+			"Assets": [
+				"/Game/OP_Dop/BP/Materials/Stainless_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "8E191800AF44DC85FD0102DAB56A47DF9FF2B1CA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AD"
+			]
+		},
+		{
+			"ShaderMapHash": "76A4080195D13842E3245A0B52ACA1D91B770A21",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Volumetric_Aurora"
+			]
+		},
+		{
+			"ShaderMapHash": "596E54019FCD7E4933F44545DE781DD708B09A19",
+			"Assets": [
+				"/Game/StaticObject/18_Cable/profiled_sheet"
+			]
+		},
+		{
+			"ShaderMapHash": "021E61020E7F45901C73B9D283B8A06F2FB86F02",
+			"Assets": [
+				"/Game/Materials/FloorIntheBuilding/FloorBuilding",
+				"/Game/Materials/FloorIntheBuilding/FloorBuilding1"
+			]
+		},
+		{
+			"ShaderMapHash": "D79778022562490762B73D3508F4AC959665C057",
+			"Assets": [
+				"/Niagara/DefaultAssets/M_NiagaraUVDebug"
+			]
+		},
+		{
+			"ShaderMapHash": "C4A95303CA1F3AF4255457A7934BEB0B34CA46F6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_A"
+			]
+		},
+		{
+			"ShaderMapHash": "1323CB03348A1F67CA1D5E184DC27C5AEA61D21C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KADO"
+			]
+		},
+		{
+			"ShaderMapHash": "8A76F0038047B4FCBA95860F631DEAB33AE42CA1",
+			"Assets": [
+				"/Game/OP_Dop/BP/Materials/Light_emessive"
+			]
+		},
+		{
+			"ShaderMapHash": "421E3F04A75507D3D7178789450F2DFA8E9B2145",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "0881C104FF32356E186A0D84ED8FE2125F5204E1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6C60F6047EE285C614944CB271688963D195B93E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CA"
+			]
+		},
+		{
+			"ShaderMapHash": "65750D05CB507AE8AB90D324ABA96DBAEC8D3375",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CD"
+			]
+		},
+		{
+			"ShaderMapHash": "02EB18053C9A8A0EC961826946A7E435E3143D42",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Cloud_Fog_PostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "E03C1F0575F13B9C0CF1C3249609B9B73A627EC8",
+			"Assets": [
+				"/AnimationSharing/AnimSharingBase",
+				"/Game/Animation/VL110/Cable_Ice",
+				"/Game/cupboard/ZRU_1000/RAL_9003_001",
+				"/Game/MyContent/Dynamic/Mech/Stainless_Steel",
+				"/Game/StaticObject/DopObject/Interior/Phone/Cisco_Phone_CP_6941_red"
+			]
+		},
+		{
+			"ShaderMapHash": "1C9AA80692BF4C0F9DC24A0A41A2F117CCD42DA9",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Space_Planet_Glow_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AAB5B00612FF5179FB315E4A318D08864AC11804",
+			"Assets": [
+				"/Game/VR_Inventorys/VRTemplate/Materials/M_DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "359DC5067A3804ED28EBB3F84A4065AE16070E3F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Snow_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "2C43C8063EBE21C28FBBE6D352A84F4EA89EE1E2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Rain"
+			]
+		},
+		{
+			"ShaderMapHash": "65631D0829770D9C8A8B6979AA03CD0047E1C029",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A81B7A08529DC395B4C3125D8C25EB8F329054B3",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_Default",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_FFTFF",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_K"
+			]
+		},
+		{
+			"ShaderMapHash": "8CDE7C0853B628A264DC55A35BE3E61BBC2F83A1",
+			"Assets": [
+				"/Game/Materials/NonMetal/Concrete_Area"
+			]
+		},
+		{
+			"ShaderMapHash": "886596081944B2D245ECE9891119658D9A4DD6A7",
+			"Assets": [
+				"/Game/Materials/Plastic/GrayPlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "3DFC9C08723E5305306033430785C06DE733E631",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Projection_Box_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "2998F208530701B8658171124973C1FE84C8F16D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AD"
+			]
+		},
+		{
+			"ShaderMapHash": "FBDEE30ADA3520569EB309C8B113D47041EF8ED6",
+			"Assets": [
+				"/Game/Materials/NonMetal/Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "88D23B0B81C08752D20B058BF8DF4308D0E09BC9",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/ExampleContent/Materials/M_ShinyPlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "8B8D600B62EE0BADD31F7099BA786D9A80C37F42",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AE377F0BF0F25ACA727186E45EB3D873D2D704E5",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "9B6BD70BA571742B810683ECA86E4B421B730F0A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CD"
+			]
+		},
+		{
+			"ShaderMapHash": "649E260C37851E38BC1AD4407E870FAE48FC2B3F",
+			"Assets": [
+				"/Interchange/Materials/PBRSurfaceMaterial_MR"
+			]
+		},
+		{
+			"ShaderMapHash": "FD45270CF308BEF9220488E01E468A438EB83F38",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A150AF0CE01FF659815E8E2B972EFC5A7B2DE263",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Water_Caustics_LightFunction"
+			]
+		},
+		{
+			"ShaderMapHash": "ED2D680DE8CB4A43F6B338227F3E0473C54C35A7",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Global_Volumetric_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "2B92810EE4697E28051085781DD850E2164C3300",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/WOV_Target_Brush"
+			]
+		},
+		{
+			"ShaderMapHash": "B3F1A11105B0B8DCBD25DA0C3B2621870024C758",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "D8CABC119D0619AF710E75CA507724FB636325C7",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/ExampleContent/Materials/M_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "08532A122B234BE30952E72B8F03A32247EE687A",
+			"Assets": [
+				"/Game/cupboard/Cupboar_Element/DIN_рейка_material"
+			]
+		},
+		{
+			"ShaderMapHash": "243D5F126EDFECC5C840E5EED83F4B9E55265161",
+			"Assets": [
+				"/Game/VRE/Grippables/Misc/Examples/Door/defaultMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0FA32913A60F9F99FA57D09AF69C4F7568DD5BF8",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B21CDE13604C4D08882A2668DC901BD612724D43",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "39CB961427B0885142144DCC7374FE716A07D632",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "27B7E816732B49EC3C455C7A6D82E6A59B2A406F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Lightning_Light_Rays_Card"
+			]
+		},
+		{
+			"ShaderMapHash": "B6F226170C444D60BD11AB5B29A084E977C96A01",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rain_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E598DE17B85D795C7BB7C2A340E6E37739F58B83",
+			"Assets": [
+				"/Game/Materials/Metal/Clear_Metal",
+				"/Game/Materials/NonMetal/Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "CC720819171131AA6A7667D6AE37C93550DB0CBC",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAD"
+			]
+		},
+		{
+			"ShaderMapHash": "EA3F5A19ED204AC7BCD44D92CD8C1859CDE4AB5F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Dust_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "C994231AF044915D800689708F6AD22B248720BE",
+			"Assets": [
+				"/Game/Materials/Plastic/OrangePlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "626ACE1A8EC1F93710E867AC884815B02642A311",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_A"
+			]
+		},
+		{
+			"ShaderMapHash": "688BD51AF9410D03D5C11930B4C14C9C21AC9B66",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1E6411B0E3759289FE27097B52CBA514CE4D180",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Projection_Box_Height"
+			]
+		},
+		{
+			"ShaderMapHash": "D654701B5801B5FBF884551D9893EAC436C8842C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CADO"
+			]
+		},
+		{
+			"ShaderMapHash": "103C931BF022074713CDE38F9976F10E444D44DA",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "D32DC61B9371439E007BABD0CC697275EFA3CE14",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_N"
+			]
+		},
+		{
+			"ShaderMapHash": "8AEAEC1BAEEB2A8EB72E228A624029058E6B8D38",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "2978941C3923350055A30CC58BB251BEAFD27D31",
+			"Assets": [
+				"/Game/Materials/Plastic/GreenPoint"
+			]
+		},
+		{
+			"ShaderMapHash": "846AE81F5AF214331CF4FBF0343195E682155A34",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Wind_Debris"
+			]
+		},
+		{
+			"ShaderMapHash": "6B2849206D1A980159ED7C04191B8C22188D0E39",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A5AFAA20B61B4101730CB2F9258C29982D45C906",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rain_Spot_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F9C72095361E5EA82FEDDCC37C25593C719EC7",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Lightning_Rainfall_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "83439C214786E787189E5B533FD5356540201F76",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "2FD577229371BABCD764B4CCAC63B640D1FB4FA9",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rainbow_Mat_Volumetric"
+			]
+		},
+		{
+			"ShaderMapHash": "19EA4724C93A9516F26633B223598E9F35841670",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Fog_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC7CA256378A9BA022A0561B3F508CFAE183F68",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_PC"
+			]
+		},
+		{
+			"ShaderMapHash": "5CB57E267959E55AE842F6A2122DE37DEB6B43F7",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAD"
+			]
+		},
+		{
+			"ShaderMapHash": "C8CF8E262694643B0F08B310E4A8EC41333E19EA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8641DA2673D4D94143B4A51E896AB5750C8FAE8F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "041326279FA8C94BE597150D8F11806877EE4E30",
+			"Assets": [
+				"/Game/BP/cupboard/Props/meter-regulator1"
+			]
+		},
+		{
+			"ShaderMapHash": "977B7E27781782C8ED4C41BD23E73E25AC080A59",
+			"Assets": [
+				"/Interchange/Materials/ClearCoatMaterial_MR"
+			]
+		},
+		{
+			"ShaderMapHash": "FCB6FC27C4350DCA8958D60CCCFEBCF1651CA85B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Lightning_Strike"
+			]
+		},
+		{
+			"ShaderMapHash": "53002328F405751DA03A8F876E27CF433F217141",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/SolidColours/M_ScreenFade"
+			]
+		},
+		{
+			"ShaderMapHash": "B2618628EF8041FEB37DF6EB1A6FD4D9D2C8B92B",
+			"Assets": [
+				"/Interchange/Materials/OrenNayerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "524DCE2841D698D8CBA3FDDC2914C3B28280F726",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_VRCursor"
+			]
+		},
+		{
+			"ShaderMapHash": "00104A29B93B9D216C52750458C2F5A98D5FFF40",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "7A979A290D092274D1C477E9CE718D43CFC4ED71",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "CF9EA1295B4D72EEED0C2570614FB15D2F77ED79",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/GDXR_VR_Template/DemoContent/ControlRig/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "EE58EA29C7260AFFD3FAFBC030989692FFEC9B1F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Lightning_Rainfall_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "E908232A7541897F6340E81A356E3ABEB94CCF67",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAD"
+			]
+		},
+		{
+			"ShaderMapHash": "14B6B72B5E09591772AA16A8709DE33F0642EA19",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D9427D2D4A4D022C227FE70D9D566866909AD41B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCADO"
+			]
+		},
+		{
+			"ShaderMapHash": "AC6F0E2F72166286F2ED7F53F14E2768768A4783",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Wind_Debris"
+			]
+		},
+		{
+			"ShaderMapHash": "34F51530F920371CA4DF28659BDA76D3494736F6",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "4FBF05312BCD6DB044618E44025E5FA683DE6E54",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "FB8E3231D05F35B601D7FD6C4229FE261A642FF5",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_2L"
+			]
+		},
+		{
+			"ShaderMapHash": "BF064132BF41546C55B904CDD8F29FF0EFBFC1A9",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF83333259B9883D250C390942AEE6225756561",
+			"Assets": [
+				"/Game/Materials/RalMats/RAL_7036"
+			]
+		},
+		{
+			"ShaderMapHash": "D5C37733D02152E3E0E689260E475615D0116530",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F0EDB3368270A505A33BB8AF606CE250C0DD2AF",
+			"Assets": [
+				"/Game/Materials/fency/Fency/Fencing_Net/Fencing_Net-opacity_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "CE523C36529C7E305A9417E688E674C5335D9A2C",
+			"Assets": [
+				"/Game/cupboard/Materials/Lable_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "64EE9D361BD795E0CBA90F1E55B5B64EA0852DD4",
+			"Assets": [
+				"/Game/Materials/NonMetal/Isolator_Porcelain_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "75629E36BABB3996867EF0F24AC963DE835CD0F3",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_Default",
+				"/Game/UltraDynamicSky/Materials/Space/Space_Planet_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "14C336387E5D90BBD9703B202BD7EDA0A02FD57F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Lens_Flare"
+			]
+		},
+		{
+			"ShaderMapHash": "C412D83829939D114321137C570FBB03B387B296",
+			"Assets": [
+				"/Game/Materials/Metal/Metal_Notch1"
+			]
+		},
+		{
+			"ShaderMapHash": "F5EB173A671AA774103D51989DFFF1B5EEA09896",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Global_Volumetric_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "54B0563A21BB83658AE04AFAD50EA168973334B4",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A9D1F93A5C367254A89305A728DF2CDA45559549",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_NAR"
+			]
+		},
+		{
+			"ShaderMapHash": "FD97823BAE3F63AC0F485FCB0AC72371CD4096D6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/DLWE_Brush"
+			]
+		},
+		{
+			"ShaderMapHash": "00FCE03C6DD457EB8E0C52CE2953A0C2D7448292",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCD"
+			]
+		},
+		{
+			"ShaderMapHash": "C4DFEC3CE32E8EC83F07D7F357FA7B7D0AC4C8AA",
+			"Assets": [
+				"/Interchange/Materials/ThinTranslucentMaterial_SG"
+			]
+		},
+		{
+			"ShaderMapHash": "F2F5223D2083D295AE56DB1394C6FE3BFCD1CF3A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
+				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "0F40393D30D09B5FA5720CA9C7BD199DBABCF26B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/LightningBolt_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "82C81B3E76894C972364980384DC4829AF92E551",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_B"
+			]
+		},
+		{
+			"ShaderMapHash": "4E8DD03E51C0CD8586DBE6C5D50F2A38F706B0BE",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Lightning_Strike"
+			]
+		},
+		{
+			"ShaderMapHash": "7F4CF23E845C880EFCB2EC30E440FE6B1B157AD7",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAS"
+			]
+		},
+		{
+			"ShaderMapHash": "7456FD3E17FD2837265C408CF1D427175A0E311D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_C"
+			]
+		},
+		{
+			"ShaderMapHash": "1E14F63F75002B6300877164EC03A3ACFE10C412",
+			"Assets": [
+				"/Game/Materials/fency/Fencing_Net/Fencing_Net-opacity_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "57BBD4406B1CD3CD17787089799645108AD7C03E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_S"
+			]
+		},
+		{
+			"ShaderMapHash": "867CD5401B7446798ACAA68EB5E0CA0B9F92D41F",
+			"Assets": [
+				"/Game/Materials/NonMetal/Concrete_Area_snow"
+			]
+		},
+		{
+			"ShaderMapHash": "792BF342E3CBC5585EFEC86F395DFD852FD3B96B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KA"
+			]
+		},
+		{
+			"ShaderMapHash": "2762FE428B46B1615E0AD442BABDDAA8BAB0183D",
+			"Assets": [
+				"/Game/BP/SkyPanorama/Оренбург__winter"
+			]
+		},
+		{
+			"ShaderMapHash": "3524A7433D81DEC1F8C06E1FB72659243976BDFA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Global_Volumetric_Fog_w_Ground_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "558BED43C6BA28772D4A8C87D6499937B4C303EF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E5ED534591024DFFB3F11D246F3952317EBD8A63",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/HoopGame/NS_Confetti"
+			]
+		},
+		{
+			"ShaderMapHash": "80016245C23350756BE006B1037A241B9262DE30",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Global_Volumetric_Fog_w_Ground_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "05F78F46A8ED33DAFDACA11CDFB1F15F79B0FE66",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/VolumetricCloud_LightRay"
+			]
+		},
+		{
+			"ShaderMapHash": "44642E474371DE6676A4B4762DC94CA4A9526F52",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAS"
+			]
+		},
+		{
+			"ShaderMapHash": "2A23DD48D0FB100D187CB3E8006B8268F545BA7E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C6AB2749665BFDF5F0B353612652F0BD7EF35B0E",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "D16A514908251C354CB55A7917F72F0EC15B065B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAS"
+			]
+		},
+		{
+			"ShaderMapHash": "B3768149CBD7B8F371311307B039A51F956C5053",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Dust_Spot_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "6FAA86493451035C00149DC04D960B2F471A3FC2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAS"
+			]
+		},
+		{
+			"ShaderMapHash": "8B238949FB72C9EA9CAD2CC5445F679FE0C99137",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/VolumetricCloud_LightRays"
+			]
+		},
+		{
+			"ShaderMapHash": "196E8D49E80F8489B7894A010055664C252E4D39",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KC"
+			]
+		},
+		{
+			"ShaderMapHash": "4027924B5A1808A7B0C85240DAACCA9F2A5DB39E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_D",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_DO"
+			]
+		},
+		{
+			"ShaderMapHash": "AE79804DA54BE59A9DEE356F2966C6DC8605C8ED",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CDO"
+			]
+		},
+		{
+			"ShaderMapHash": "E6FA924D26EFE23E3477F14F806BC2D28934D9D4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1D52404EB028BA5673B52A840D30A6FC3B60BFC4",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "47D28D4EDFDFEE5D5DC78F65A755B641668B75C1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7E85434FC981C52402798DB44E441F70C3F6155A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/DLWE_Brushes/Compression_EdgeFade"
+			]
+		},
+		{
+			"ShaderMapHash": "3E6ABA4F8F5BB1A2B319587AB5C0C47E36C5CE75",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KDO",
+				"/Game/UltraDynamicSky/Materials/Ultra_Dynamic_Sky_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD054F5078BB090FD5E7B49F749D2561E7CCEDB9",
+			"Assets": [
+				"/Interchange/Materials/SubsurfaceMaterial_SG"
+			]
+		},
+		{
+			"ShaderMapHash": "99851952AB6F7E4E94D29B8F5393FE6A0DC569B8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C9E06653DEE0B977C626D15482CAEFE3EC795089",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Cloud_Fog_PostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "C6E1425449DE9B1ACB4EAB352BBBE14718266ECA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_2L"
+			]
+		},
+		{
+			"ShaderMapHash": "97A48854E33F3FBA6FCF30CDEC63F212C73CCA0A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAD"
+			]
+		},
+		{
+			"ShaderMapHash": "08C715553C4A217088EA7291BC3208F54A8B7904",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_ADO"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC822556ECF0C340B01E683B6450A59452FBD50",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D3161C56DB1B3FF5C1B60032BD6F18399686632B",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_TeleportCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "A10C6256E9826766E93FAB679E242AAC151778F7",
+			"Assets": [
+				"/Game/cupboard/RAS/Material_006"
+			]
+		},
+		{
+			"ShaderMapHash": "A6D96556D8576891CC08AA2D68A95F09C5A4201B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Global_Volumetric_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "554AF95672DAA0DB4677807AD2DBBA0746974E91",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "ECFBCE571EBD087E5428C8B76D525E9F0A6F77C2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_P"
+			]
+		},
+		{
+			"ShaderMapHash": "475BEB57571CDE73243B7CB5527F7EA6B33FFC41",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AD"
+			]
+		},
+		{
+			"ShaderMapHash": "C7DF6159442FEB1F55082C1CFD5B4A021595197A",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/SolidColours/M_Metal",
+				"/Game/GDXR_VR_Template/Materials/SolidColours/M_SolidColourMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9993105A1E15261C8128B99F7A5043440718CE73",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCS"
+			]
+		},
+		{
+			"ShaderMapHash": "9BF6275A9B738EF6D297875093ACE3DA1E6CF80B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default_S"
+			]
+		},
+		{
+			"ShaderMapHash": "65AB865A6DF4DFB9C2C97E5E354840D856B9FA84",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Post_Process_Wind_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "525D495B2BA288E09F6B2D7A3239658312D21D87",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "F3D5EC5B7B49F641D3D415374515511C0E8433E4",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4144855CD710B5F7411B17D55AA33FE51A92BC7F",
+			"Assets": [
+				"/Game/Materials/zazem/Заземление_декаль_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "EC7B8D5D0B6339F821B9641702626BD49C0F669B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AS"
+			]
+		},
+		{
+			"ShaderMapHash": "ADBBC95D1B0E28F6FE52B4ED5DB4C5CEFB527795",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
+				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "C35EF35E24A18EDF882D4B4913E134A2BCB802E6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_PC"
+			]
+		},
+		{
+			"ShaderMapHash": "FFE9475F2BABAD91C51DC01726033C8A3568E893",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "6C9C5F5F4D8CAF46E55BDAD724759890D768821A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Lightning_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "4790C55F03742F4B2B216146372B8420BB34696F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "B762286096C9A42A886D52F3BDAD6F9A540DDAE1",
+			"Assets": [
+				"/Game/Materials/RalMats/RAL_3020",
+				"/Game/Materials/RalMats/RAL_9003"
+			]
+		},
+		{
+			"ShaderMapHash": "8BB9DE60C408064BB0D55F5AE01B6F24860B373D",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/BP/All_key/Plastic",
+				"/Game/BP/All_key/RAL_7036",
+				"/Game/BP/All_key/Stainless_Steel",
+				"/Game/BP/All_key/TextPlace_Birka",
+				"/Game/BP/cupboard/Materials/Display",
+				"/Game/BP/cupboard/Materials/Green_Light",
+				"/Game/BP/cupboard/Materials/Indicator",
+				"/Game/BP/cupboard/Materials/Material_001",
+				"/Game/BP/cupboard/Materials/Material_007",
+				"/Game/BP/cupboard/Materials/Material_010",
+				"/Game/BP/cupboard/Materials/Material_014",
+				"/Game/BP/cupboard/Materials/Orange_Light",
+				"/Game/BP/cupboard/Materials/Plastic",
+				"/Game/BP/cupboard/Materials/RAL_9011",
+				"/Game/BP/cupboard/Materials/RAL_9012",
+				"/Game/BP/cupboard/Materials/Red_Light",
+				"/Game/BP/cupboard/Materials/Rubber",
+				"/Game/BP/cupboard/Props/Isolated_Cable",
+				"/Game/BP/cupboard/Props/Rubber",
+				"/Game/BP/cupboard/Props/Stainless_Steel",
+				"/Game/BP/cupboard/RAL_9003",
+				"/Game/BP/Door1264/Clear_Metal",
+				"/Game/BP/Door1264/Color",
+				"/Game/BP/Door1264/RAL_9011",
+				"/Game/BP/Not_Include/Material_003",
+				"/Game/cupboard/Materials/Display",
+				"/Game/cupboard/Materials/Green_Light",
+				"/Game/cupboard/Materials/Material_010",
+				"/Game/cupboard/Materials/Plastic",
+				"/Game/cupboard/Materials/RAL_9003",
+				"/Game/cupboard/Materials/RAL_9011",
+				"/Game/cupboard/Materials/RAL_9012",
+				"/Game/cupboard/Materials/Red_Light",
+				"/Game/cupboard/RAL_9003",
+				"/Game/cupboard/RAS/Material",
+				"/Game/cupboard/RAS/Material_004",
+				"/Game/cupboard/RAS/Material_007",
+				"/Game/cupboard/RAS/Material_008",
+				"/Game/cupboard/ZRU_1000/M_RED_002",
+				"/Game/cupboard/ZRU_Cell_DOOR/M_White_002",
+				"/Game/MyContent/Dynamic/3/3_1/RAL_9003",
+				"/Game/OP_Dop/BP/Materials/M_Black",
+				"/Game/OP_Dop/BP/Materials/M_Body",
+				"/Game/OP_Dop/BP/Materials/M_Botton",
+				"/Game/OP_Dop/BP/Materials/M_White",
+				"/Game/OP_Dop/BP/ZRU_BUTTON/M_Black",
+				"/Game/OP_Dop/BP/ZRU_SWITCH/New/M_VMetr_PZ195U_BODY",
+				"/Game/OP_Dop/KRUN/Materials/GREEN",
+				"/Game/OP_Dop/KRUN/Materials/RED",
+				"/Game/OP_Dop/KRUN/Materials/WHITE",
+				"/Game/StaticObject/01_Transformator/Газ_в_реле_Бухгольца",
+				"/Game/StaticObject/01_Transformator/Масло_в_реле_Бухгольца",
+				"/Game/StaticObject/01_transformer/RAL_3020",
+				"/Game/StaticObject/02_08_3_4_Block/02_08/Isolator_Porcelain_Gray",
+				"/Game/StaticObject/17_fence/RAL_9003",
+				"/Game/StaticObject/17_fence/RAL_9011",
+				"/Game/StaticObject/17_fence/Rubber",
+				"/Game/StaticObject/19_IronConcrete/Concrete_Area",
+				"/Game/StaticObject/19_IronConcrete/Concrete_Foundation",
+				"/Game/StaticObject/19_IronConcrete/RAL_7036",
+				"/Game/StaticObject/Cupboard/1-6Y/RAL_9003",
+				"/Game/StaticObject/DopObject/BlockKey/Material",
+				"/Game/StaticObject/DopObject/Poster_is_grounded/Material",
+				"/Game/StaticObject/DopObject/Poster_is_grounded/Material_002",
+				"/Game/StaticObject/ScenarioObject/Camera/Material",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_001",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_002",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_003",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_004",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_005",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_006",
+				"/Game/StaticObject/VoltIndicator/Blue_Indicator",
+				"/Game/VRE/Grippables/Misc/Examples/Microphone/black_mate_plastic",
+				"/Game/VRE/Level/Car/VehicleBP/Sedan/Yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "C185AF61AC2DE7ECEB994D0F7E635DEE8B80D654",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AS"
+			]
+		},
+		{
+			"ShaderMapHash": "48A6596206A819E54AB1CE3A27DF4E2CAE192739",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCDO"
+			]
+		},
+		{
+			"ShaderMapHash": "4CC55E62AD57B25144EDEC059075C0754C5ED9D3",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "814B9C6387A6C33207DD91A9023261610A7BE590",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CS"
+			]
+		},
+		{
+			"ShaderMapHash": "2B7C0764D4E476F1D1855EB01AD33F35CF3868A0",
+			"Assets": [
+				"/Game/VR_Inventorys/Slot_Materials/M_HLA_InventorySlot",
+				"/Game/VR_Inventorys/Slot_Materials/M_HLA_InventorySlotRed"
+			]
+		},
+		{
+			"ShaderMapHash": "167E7564A76BB0CA8BDB41EA0B81B664BF2CC09F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Splash_ParticleMat_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "8F24BD650D338CA454EE97B0827CAC4390519F2F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "C78DF165AAB00D4FDE0001558DFB5B75364C00EE",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_C"
+			]
+		},
+		{
+			"ShaderMapHash": "68F81466E508ACACDCDC9227331FE9CDA2B2BF9C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "BAC34066398DD6BC03163188BE72DF67DF8F9162",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "04CF6B66031D5697710B9FB90A761C1F55BCC3FC",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/2D_Cloud_Shadows_Caustics"
+			]
+		},
+		{
+			"ShaderMapHash": "21C07A6669D9321F701ED40148E148CEFDAB06C6",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "624E8067931EE8B205092B737A45D2955152BA56",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Rain"
+			]
+		},
+		{
+			"ShaderMapHash": "E4D3A367690E0DFD12955E4380A3604D6C5A0157",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAS"
+			]
+		},
+		{
+			"ShaderMapHash": "EA17C5676414C4C9A0EF774B0D2F6BF90E07ED17",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Dust_Spot_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "426F1F692FB97D82557E4FF909C262FA9BEBC12A",
+			"Assets": [
+				"/Game/GDXR_VR_Template/VRSpectator/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "8CE6F0697468D0857677F3A63879B01FCA5286F5",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D060376A1625E729C21C1E0011EB10709D80126C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_S"
+			]
+		},
+		{
+			"ShaderMapHash": "8C29B66AF62AD0D31DFD113EC048AA9F1A9F6923",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCDO"
+			]
+		},
+		{
+			"ShaderMapHash": "DA8DC46ADC810699DC1DE1537CE08AAF4A87A57B",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "10671F6B9B98CDC2B4AAEB0C6ABE4B374293832B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Lightning_Strike"
+			]
+		},
+		{
+			"ShaderMapHash": "8597AF6B2EEA3A5C1C61D669744481F01633DD62",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6C9ABA6BEE88505874DBA308E02356E2F3954EF4",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_ADO"
+			]
+		},
+		{
+			"ShaderMapHash": "4B9E626C07180F285541468C9B01CD4756ECB235",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_ADO"
+			]
+		},
+		{
+			"ShaderMapHash": "7A36716C7CD681D13A8856EF0F82FDAA04573ED6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Lightning_Strike"
+			]
+		},
+		{
+			"ShaderMapHash": "16D5636D37AFD4B08DDF199BE1C1FD5760EEF4BD",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
+				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "1AA89C6D84999A93503343DD1BB2484394FCE438",
+			"Assets": [
+				"/Game/Materials/Plastic/BlackPlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "70E4016E95104AB3A71A8E7E8E0B9932EB8C3670",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KDO",
+				"/Game/UltraDynamicSky/Materials/Ultra_Dynamic_Sky_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1FE9036FFF8E0330B1B558DEC90E4F61900C8908",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default",
+				"/Game/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "64AE406FA895AC17A4EC9DBD1A459DCAAA2BE003",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Lens_Flares/Zoom_Chromatic"
+			]
+		},
+		{
+			"ShaderMapHash": "F6DA4A6F8BC10DFDCDA84E93D3692C1236592867",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Cloud_Fog_PostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "F8EABA6FB8CBA12415BBB2C0AE52090F65159592",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_HolsetMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9348977039BA045335D5FDF121C9B37D5634327D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Volumetric_Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "15A0C4702D119E883CA25F801949D860CA08CAED",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2863F670314DAB32279528343685AA7861DD1FBD",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Lightning_Strike"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBB6B71854792AC89011D10AFDDD6FD4C7838D2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_NR"
+			]
+		},
+		{
+			"ShaderMapHash": "20356D71252559D11A45A7D437FCA774B6A80DD8",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rain_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "51BA99719842DA8CDDCAED9F308EF6F1EB9AF19C",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/LyraWeapons/Generic/Materials/M_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "06FA10722680187EB24E13E689CF045EE456F498",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCDO"
+			]
+		},
+		{
+			"ShaderMapHash": "2F3F4B72AF483B4CBB6704171EFA559A3865058C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "1A48AC72847028D2408810DA344BE54FE978B8D3",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KDO",
+				"/Game/UltraDynamicSky/Materials/Ultra_Dynamic_Sky_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1088BF73B1BC7CE15B7DDCE8BD8B01BDED893FB3",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "12362A74C26CCD63D394BA809CEE0B4FE2E90B8A",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6380BC7445E71064B00F789FEE54BB5E7D6F0996",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CS"
+			]
+		},
+		{
+			"ShaderMapHash": "056BDB742F71773F03733113C39EB6628ADF9B39",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/VolumetricCloud_LightRay"
+			]
+		},
+		{
+			"ShaderMapHash": "33EC17757C4976D7C0A021CA017E175C40D51C0A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CADO"
+			]
+		},
+		{
+			"ShaderMapHash": "FBDD2D753F78466D11D0163B8D61F4A78ED39AB7",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1D16777631AB2F172E3D9B413C9A0F29862D0AF7",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "8438C1778E0546C2B65FDF8D7931F38ED7381B94",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_NA"
+			]
+		},
+		{
+			"ShaderMapHash": "A654C5770D138EC8276681FF8B07B236D9D51F1B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCADO"
+			]
+		},
+		{
+			"ShaderMapHash": "DFC95478E5618D6A15E70D3902C8221DF0A3C06D",
+			"Assets": [
+				"/Game/BP/cupboard/Materials/Conductor_Emission"
+			]
+		},
+		{
+			"ShaderMapHash": "2EBCD27808BB568D3582202E52975D4F377EF009",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KADO"
+			]
+		},
+		{
+			"ShaderMapHash": "622C587AA0688AE8FB0F86FEB828EC1EFA798FF6",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "EFE8817A13430F6CB2E62357FF47EB4AED6D1B3F",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "34819E7AA098755F4516D554D231F569DADA2F6F",
+			"Assets": [
+				"/Game/StaticObject/Gloves/glove_DefaultMaterial_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "577E017B453EE8C3B93AE9276D28C65E65D1CCD7",
+			"Assets": [
+				"/Game/BP/cupboard/Materials/Conductor",
+				"/Game/BP/cupboard/Materials/RPN1",
+				"/Game/BP/cupboard/Props/M_Bresler_297x297mm",
+				"/Game/BP/cupboard/Props/M_Bresler_297x417mm",
+				"/Game/BP/cupboard/Props/M_Bresler_297x521mm",
+				"/Game/BP/cupboard/Props/M_Bresler_OL_297x221mm",
+				"/Game/BP/cupboard/Props/М_Bresler_297x221mm_Mat",
+				"/Game/BP/cupboard/Props/М_Bresler_297x221mm_Mat_V2",
+				"/Game/BP/cupboard/Schemes/1Y_Scheme",
+				"/Game/BP/Not_Include/Material_014",
+				"/Game/cupboard/Cupboar_Element/SET-4TM",
+				"/Game/cupboard/Materials/Bresler",
+				"/Game/cupboard/Materials/Conductor",
+				"/Game/cupboard/Materials/RPN1",
+				"/Game/cupboard/RAS/808_2_Mat",
+				"/Game/cupboard/RAS/Текстура_вольтметр",
+				"/Game/cupboard/RAS/переключатель_Mat",
+				"/Game/cupboard/Schemes/1Y_Scheme",
+				"/Game/cupboard/ZRU_650/650_OL/TextureDoorUP_Front_Mat",
+				"/Game/DIsp_Name/Textures/001_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/002_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/003_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/004_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/005_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/006_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/007_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/008_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/009_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/010_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/011_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/012_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/013_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/014_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/015_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/016_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/017_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/018_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/019_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/020_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/021_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/022_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/023_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/024_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/025_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/026_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/027_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/028_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/029_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/030_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/031_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/032_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/033_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/034_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/035_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/036_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/037_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/038_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/039_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/040_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/041_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/042_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/043_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/044_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/045_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/046_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/047_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/048_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/049_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/050_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/051_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/052_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/053_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/054_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/055_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/056_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/057_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/058_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/059_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/060_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/061_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/062_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/063_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/064_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/065_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/066_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/067_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/068_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/069_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/070_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/071_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/072_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/073_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/074_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/075_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/076_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/077_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/078_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/079_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/080_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/081_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/082_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/083_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/084_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/085_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/086_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/087_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/088_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/089_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/090_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/091_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/092_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/093_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/094_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/095_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/096_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/097_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/098_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/099_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/100_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/101_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/102_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/103_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/104_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/105_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/106_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/107_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/108_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/109_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/110_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/111_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/112_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/113_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/114_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/115_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/116_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/117_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/118_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/119_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/120_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/121_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/122_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/123_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/124_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/125_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/126_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/127_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/128_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/129_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/130_disp_name_Mat",
+				"/Game/DIsp_Name/Textures/131_disp_name_Mat",
+				"/Game/Materials/Logo/OPU/Баннер_ОПУ_Mat",
+				"/Game/Materials/Logo/OPU/Табличка_ОПУ_Mat",
+				"/Game/Materials/Logo/Баннер_ЗРУ_Mat",
+				"/Game/Materials/Logo/Табличка_ЗРУ_Mat",
+				"/Game/OP_Dop/BP/Materials/T_AVMeter",
+				"/Game/OP_Dop/BP/ZRU_SWITCH/M_kV_Digital",
+				"/Game/OP_Dop/BP/ZRU_SWITCH/M_mA_Digital",
+				"/Game/OP_Dop/BP/ZRU_SWITCH/New/M_AMetr_PZ195U",
+				"/Game/OP_Dop/BP/ZRU_SWITCH/New/M_VMetr_PZ195U",
+				"/Game/OP_Dop/KRUN/Materials/M_KRUN_OFF",
+				"/Game/OP_Dop/KRUN/Materials/M_KRUN_ON",
+				"/Game/OP_Dop/KRUN/Materials/M_KRUN_TABL_Привод_Заземл",
+				"/Game/OP_Dop/KRUN/Materials/M_KRUN_TABL_Привод_Ножей",
+				"/Game/OP_Dop/KRUN/Materials/M_KRUN_TABL_Привод_Разъедин",
+				"/Game/OP_Dop/Schem_OPU/M_Schem_OPU",
+				"/Game/StaticObject/DopObject/Poster_is_grounded/Zazemleno_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "37CD227C771ED8507036ECCA51A6288BE321396E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3C965C7C3C783FA64CBBE856E911502300A22BB9",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_default_S"
+			]
+		},
+		{
+			"ShaderMapHash": "B591857C3723C6816F73F61AF93F94753476A55E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Volumetric_Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "2D80FF7C6546264E4AA65A218B44AB0831FC622D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_2L"
+			]
+		},
+		{
+			"ShaderMapHash": "377E1C7DB0EB9159F28DC6015730A9A7AE991881",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_C"
+			]
+		},
+		{
+			"ShaderMapHash": "4B02187ECFBAABB241720A1F6431C43F57DD1A01",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Rain"
+			]
+		},
+		{
+			"ShaderMapHash": "2CE2707EF25E9946137AFB8A588735A02368BD22",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3394737E12EAC963DF05EAF38CAC65B6899DEB66",
+			"Assets": [
+				"/Interchange/Materials/ClearCoatMaterial_SG"
+			]
+		},
+		{
+			"ShaderMapHash": "9D78A57E499434B0F25D7BF53F26AE67AFDDC764",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/WidgetMaterials/M_GazeSpinner"
+			]
+		},
+		{
+			"ShaderMapHash": "AD5FB17E1661C097BC1971770622F6286B1D12A1",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_2L_S"
+			]
+		},
+		{
+			"ShaderMapHash": "17CCE57E06DEF14486F2F07EC832A369B558C1BF",
+			"Assets": [
+				"/Game/cupboard/Cupboar_Element/Perf_Cable/perf_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A4B77B7F786C6D15230B8B3E55DC6B903E95D26D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9931DD806AEB203B5F16047C68EC91B048938661",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_P"
+			]
+		},
+		{
+			"ShaderMapHash": "1E830B810B1BA5D03807F5D9EF95B9B3B45C5825",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_B"
+			]
+		},
+		{
+			"ShaderMapHash": "679D2D81F30E9D169CA11246B854A6F1CAAA9818",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/ParticleMaterials/M_MuzzleFlash"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0D7381AB292E7CE7B8AA3024855F9E09EE3904",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rain_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "10AFC58111B2BF65A787986ABA055CFBD178C807",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_A"
+			]
+		},
+		{
+			"ShaderMapHash": "34671D827018888F84FA4A74AD148EB3FC9DCA33",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Interchange/Materials/UnlitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "94EEDA838401B0F2B65027E6BA56EF5BB074659D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "1CDC5D8493DE9E44EB9A095CAEF6A4AFB9BB2159",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCADO"
+			]
+		},
+		{
+			"ShaderMapHash": "BD556F85F95AD3DF85FF43312DD7BB88DA6A3D01",
+			"Assets": [
+				"/Game/Materials/NonMetal/Ground_Gravel_snow",
+				"/Game/Materials/NonMetal/Road_Slab_1_snow"
+			]
+		},
+		{
+			"ShaderMapHash": "68317885950574CFF0E16E45B7ED90CDADCF69AA",
+			"Assets": [
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "C120C6856F28DD644F78A0A6F74243D0CC20E3E2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Splash_Droplet_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "43836C86510192A3E0BE682814A0D1FA1E71FC81",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_2L_S"
+			]
+		},
+		{
+			"ShaderMapHash": "F7712A872B1A213F107BB86C8DE1A8997195C299",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Overcast_Turbulence"
+			]
+		},
+		{
+			"ShaderMapHash": "D427DF87ADE551340795AB3F7134FA99A8987940",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_DO"
+			]
+		},
+		{
+			"ShaderMapHash": "4E285389459FD8379B39D3BB1E40276DDFEDAA8D",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/ExampleContent/Materials/M_Metal_Lighter"
+			]
+		},
+		{
+			"ShaderMapHash": "8F51588938EBDD40EDDB0D501A0B227521171CCA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAD"
+			]
+		},
+		{
+			"ShaderMapHash": "A2EF4A8AFACECA18257CD413E58A5B58CB86FAA9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Game/GDXR_VR_Template/Materials/WidgetMaterials/M_Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "686E7A8A9F02EE94722A462728DD8ED641BAF31B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Clouds_2L"
+			]
+		},
+		{
+			"ShaderMapHash": "30985F8BF6C890F1E7DC22291C32C9F5CADEB5B7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FA34D08BFC989FE02F5AD993F559D944709F81B8",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KS"
+			]
+		},
+		{
+			"ShaderMapHash": "5C532F8CCFD8F039646673715554F189EF760027",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_ADO"
+			]
+		},
+		{
+			"ShaderMapHash": "54085A8C4940F572743784077978F47F0B941319",
+			"Assets": [
+				"/Game/StaticObject/VL110/NewFolder/Cable_Ice"
+			]
+		},
+		{
+			"ShaderMapHash": "8995D88C2AD77F5AD3A424AA37383330E7DEC83D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Radial_Storm_Cloud_Draw"
+			]
+		},
+		{
+			"ShaderMapHash": "ABBDE58DA13C29304DC669FBBB9ADACF964FB819",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Lens_Flare",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Lens_Flares/Zoom_Chromatic"
+			]
+		},
+		{
+			"ShaderMapHash": "CF47F88DA2535B9BC37E71E2FA3F4ECBBBD2192D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KD"
+			]
+		},
+		{
+			"ShaderMapHash": "1C0F758E3C4FCFCE33F11B3E1615B25D259A8661",
+			"Assets": [
+				"/Game/cupboard/Voltage/VoltImage"
+			]
+		},
+		{
+			"ShaderMapHash": "9A197D8F81A919AEDF231B6EADDBD0B3EEDAD184",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CS"
+			]
+		},
+		{
+			"ShaderMapHash": "4C123890B1B598C9DE9CF70F5510F8AF01B21F7F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "7B8B5891B38DFC18274EF014E61B93A52C8C4D46",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KD"
+			]
+		},
+		{
+			"ShaderMapHash": "60498D91AEF9F4B1EEA68310B18D7BB2745F2379",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Rain"
+			]
+		},
+		{
+			"ShaderMapHash": "4C34C79123FE441000DD0CE899F17E53F9A70B89",
+			"Assets": [
+				"/Game/Materials/NonMetal/Ground_Rubble1"
+			]
+		},
+		{
+			"ShaderMapHash": "B98ED29189F2EF0DFD27ED8F73EFCEBEA4940AF9",
+			"Assets": [
+				"/Game/OP_Dop/BP/Materials/M_Black_2"
+			]
+		},
+		{
+			"ShaderMapHash": "2684AE92BC0AB2FC78B0B760529FCF32BD07C48B",
+			"Assets": [
+				"/Game/Materials/Metal/Metal_Notch"
+			]
+		},
+		{
+			"ShaderMapHash": "7877E0926C99216557B415FBC5524F4CAADCC5D5",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CA"
+			]
+		},
+		{
+			"ShaderMapHash": "FEFD2F9491E55542A2BBDD5550E6A3F72FE3A65E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CDO"
+			]
+		},
+		{
+			"ShaderMapHash": "454F4594D102D950B761A13CA1140A03AD8BAA6F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Dust"
+			]
+		},
+		{
+			"ShaderMapHash": "261020965E60A8409B847A69FC4BD5AA70267A3B",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "78BC249665E2D08C9A1C5CA9ACE3093FA752B2AD",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KDO",
+				"/Game/UltraDynamicSky/Materials/Ultra_Dynamic_Sky_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "93B22A96783B84A63EAF56CF5E63B0F8BE7DF7CF",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/ExampleContent/Materials/M_Battery"
+			]
+		},
+		{
+			"ShaderMapHash": "F54DA196CE5869550488C4C05C3F74BD2F6D663A",
+			"Assets": [
+				"/Game/OP_Dop/KRUN/Materials/Панель_VF12_600x1000мм_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0E6D30972D8B4C57ED37045CF8C5E1C0F2475B0E",
+			"Assets": [
+				"/Game/StaticObject/16_toilet/Door_Hang",
+				"/Game/StaticObject/16_toilet/Toilet_Blue",
+				"/Game/StaticObject/16_toilet/Toilet_Door",
+				"/Game/StaticObject/16_toilet/Toilet_Top"
+			]
+		},
+		{
+			"ShaderMapHash": "8B3BC39777115631055D579EDAE2325699413DFA",
+			"Assets": [
+				"/Engine/VREditor/Devices/Generic/GenericHMDMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1843E9A7BFFB7201627C198CB3E64453811F390",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F9689E9A34604FEE740C4C18FED4769488991408",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0A59449B09B0CBD2C016893A24912DB013D55266",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_C"
+			]
+		},
+		{
+			"ShaderMapHash": "2C87719C523BFFD122E96DA42AFDD1782F6F2705",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CADO"
+			]
+		},
+		{
+			"ShaderMapHash": "A385109DF2C1B96E8056D853DA50D95200032547",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAS"
+			]
+		},
+		{
+			"ShaderMapHash": "7F4D499DA2F745D954712DE8ACEC68771797C340",
+			"Assets": [
+				"/Game/BP/cupboard/Materials/SV_texture_Mat",
+				"/Game/BP/Door1264/AB_Mat",
+				"/Game/BP/Door1264/SHPT1_Mat",
+				"/Game/BP/Door1264/SHPT2_Mat",
+				"/Game/BP/Door1264/SHPT3_Mat",
+				"/Game/Materials/Logo/OPU/Раскраска_на_двери_OPU_Mat",
+				"/Game/Materials/Logo/Раскраска_на_двери_Mat",
+				"/Game/OP_Dop/KRUN/Materials/M_High_Voltage",
+				"/Game/OP_Dop/KRUN/Materials/Табличка_КРУН-6_125х287мм_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "46148E9FA97F8F1130211FB44410427F37E98B8A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AS"
+			]
+		},
+		{
+			"ShaderMapHash": "3FB2E0A02651ADD15991CC32DD131F018F11218E",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "093A97A1624C6E773A15F5347610CAB4081FAC8C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Splash_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B301E6A3BE8DBC20E1EE3C33C78DA05F390C7249",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCA"
+			]
+		},
+		{
+			"ShaderMapHash": "080421A476CB4B15ABD0104EF2923A4DE9EC4641",
+			"Assets": [
+				"/Interchange/Materials/SheenMaterial_SG"
+			]
+		},
+		{
+			"ShaderMapHash": "3976DCA6991193B03EFA4E3CAC9BA5AF827D8BC6",
+			"Assets": [
+				"/Interchange/Materials/SheenMaterial_MR"
+			]
+		},
+		{
+			"ShaderMapHash": "E8762BA79BCDB8FB50668D29BCAABE796AFE6242",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAS"
+			]
+		},
+		{
+			"ShaderMapHash": "EDB45EA94123A7D29FD052CECFD6447E581ACBBA",
+			"Assets": [
+				"/Game/Materials/NonMetal/Isolator_Porcelain_White"
+			]
+		},
+		{
+			"ShaderMapHash": "D239D9A946F54D3EB967E71A76B46AF200C20528",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "7979E7A94C28B159A02AF7D0F8D50175E6D34B22",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/ControlRig/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "BFA601AAD70FDFE3FDCEDC06446DE6D69CC002A8",
+			"Assets": [
+				"/Game/Materials/Logo/Logo"
+			]
+		},
+		{
+			"ShaderMapHash": "277006AD1EEB83033422311DDBF7AF17D620B224",
+			"Assets": [
+				"/Game/Materials/fency/barbed_wire/barbed_wire"
+			]
+		},
+		{
+			"ShaderMapHash": "208430AD9763550C811768B3F939141623D98718",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Dust_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "AD4E54AE5BE715836C0B80614BB2AD1C927212CA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCD"
+			]
+		},
+		{
+			"ShaderMapHash": "EA6651AF5E4D90AF41E2B03B8D06C8F1C561C68A",
+			"Assets": [
+				"/Game/Materials/Metal/Alumin",
+				"/Game/Materials/RalMats/RAL_NEW/RAL_1021",
+				"/Game/Materials/RalMats/RAL_NEW/RAL_3020",
+				"/Game/Materials/RalMats/RAL_NEW/RAL_6024",
+				"/Game/Materials/RalMats/RAL_NEW/RAL_7036",
+				"/Game/Materials/RalMats/RAL_NEW/RAL_9011"
+			]
+		},
+		{
+			"ShaderMapHash": "660FACAFB74CD8E19E79D5375893FD00FE8A06DB",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Dust"
+			]
+		},
+		{
+			"ShaderMapHash": "2659B1B1E2545D891C18CA595EB5A250202CF9F7",
+			"Assets": [
+				"/Interchange/Materials/PBRSurfaceMaterial_SG"
+			]
+		},
+		{
+			"ShaderMapHash": "61C8EAB11FEA732AE4F27BA47BBDB78AE94DC71A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/LightningFlare_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0252F0B16FF7BCD1A79AD69039F80ACB5151915A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_Default",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_FFTFF",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_K"
+			]
+		},
+		{
+			"ShaderMapHash": "527C2BB20470A17E88D7D1D066ED59AD794AA7E6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CA"
+			]
+		},
+		{
+			"ShaderMapHash": "B99A64B2FB1A753563316EB3F9678E7DF8B417E4",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_DO"
+			]
+		},
+		{
+			"ShaderMapHash": "5956FAB2E08019D996FE524EFE3B80E85140521F",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "E11C30B341E6503269E3DB27CDB8847BEE8A8357",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EB4245B3982AA1B25824464CB452EDBB3B1E59C6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Splash_Droplet_Particle_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BC413AB6A76A9CB25FF4BC01EF9EE3FAA7F1706F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_S"
+			]
+		},
+		{
+			"ShaderMapHash": "F40F56B62FEDD6A01C7DCCED506569F715C9A783",
+			"Assets": [
+				"/Game/VRE/Core/Character/LaserBeamSplineGreen",
+				"/Game/VRE/Core/Character/LaserBeamSplineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DBA702B70025B2EA66D38A4A8D43648672798D4A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_D"
+			]
+		},
+		{
+			"ShaderMapHash": "4A4AC4B73E7B24927CA67CF53C197BEFFEAECC7E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KD"
+			]
+		},
+		{
+			"ShaderMapHash": "48F16BB8344AB0533514E6371B133FD8E7ABA422",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "4F9ABFB8EAA3F8C8CAB2D7A1052EFF269C545252",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "E3D8C1B903200DD7615F558EF859D305450C5DE3",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D93DEBA5728FADEBD3EB18606BAF4005B36F68B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/2D_Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "BEAEB1BB2678C19E61CED38BE555655F45024062",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Rain"
+			]
+		},
+		{
+			"ShaderMapHash": "992B3EBD998761996BDD578457304BF76A9910E3",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KA"
+			]
+		},
+		{
+			"ShaderMapHash": "78A0FCBDAB23AEB90702FE581CC1288B0D13B7F1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E5C8F2BE2D0081FC8B869721C138D2A52EC06724",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "18BEF4BF61329CF3C3284F05D1796042D751402D",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "DDF1FFBFA92559D522DE0698ED6E79F6482B2FA2",
+			"Assets": [
+				"/Game/Materials/NonMetal/Road_Slab"
+			]
+		},
+		{
+			"ShaderMapHash": "628032C0926EFA5642E5B90E53E31B98E5036AF2",
+			"Assets": [
+				"/Game/BP/cupboard/Materials/Green_Light_Emissive",
+				"/Game/BP/cupboard/Materials/Indicator_Emission",
+				"/Game/BP/cupboard/Materials/Orange_Light_Emissive",
+				"/Game/BP/cupboard/Materials/Red_Light_Emissive",
+				"/Game/cupboard/Materials/Green_Light_Emissive",
+				"/Game/cupboard/Materials/Indicator_Emission",
+				"/Game/cupboard/Materials/Red_Light_Emissive",
+				"/Game/VRE/Grippables/Misc/Examples/Button/Green"
+			]
+		},
+		{
+			"ShaderMapHash": "7577B6C1D5FAD868EF6109ADDB637F98AE093697",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KC"
+			]
+		},
+		{
+			"ShaderMapHash": "28690DC2059BD9DFCB67F607D723D43EBF215785",
+			"Assets": [
+				"/Game/StaticObject/02_OPU/Cupboard/Server/Сервера_Mat",
+				"/Game/StaticObject/DopObject/Interior/Phone/uvrap_ekran_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "18EF20C2DADA4B6801161706AE68E1E010521FEA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rainbow_Mat_Volumetric"
+			]
+		},
+		{
+			"ShaderMapHash": "119567C2359B6ECDE4A90740E92D464600E784EB",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCA"
+			]
+		},
+		{
+			"ShaderMapHash": "BC8D7BC2606DD623247665C9726E1F04CEF527CA",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Lightning_Rainfall_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "63A1F2C2B33F9E69F5F6AE4AE82E43A317552517",
+			"Assets": [
+				"/Interchange/Materials/ThinTranslucentMaterial_MR"
+			]
+		},
+		{
+			"ShaderMapHash": "0D9CC8C3C7911412731336BAA8161B201B66EFB2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCS"
+			]
+		},
+		{
+			"ShaderMapHash": "64F2D3C44EE7277DDFB29BBE72CC3ACF36E2545F",
+			"Assets": [
+				"/Game/Materials/NonMetal/Isolator_Porcelain_Brown"
+			]
+		},
+		{
+			"ShaderMapHash": "DFA0F5C4BBBA55E42DF0D64C3EE1619C9A12DE91",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CD"
+			]
+		},
+		{
+			"ShaderMapHash": "376C49C5524E30EFA67B57C95A3C4FA6B1567942",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "805997C543D27EF9B224A0D9E88E9B6EB0CBC453",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KS"
+			]
+		},
+		{
+			"ShaderMapHash": "EA385AC6262F089FD4CD3B11D3E2D92B9E8319CC",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_D"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0C00C7F65E0B0076DB021F66D9B8B250F8B8C0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "356206C78885A2C334F5F3912B95A18D82EEC802",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/LightningFlare_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "22B6ABC8B3942C0397ADD6EC8B5CF42B73358E9B",
+			"Assets": [
+				"/Game/Materials/RalMats/RAL_NEW/RAL_9003"
+			]
+		},
+		{
+			"ShaderMapHash": "D22FB1C831F8B6735E83186DE783D0F8A4EC29EB",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_DO"
+			]
+		},
+		{
+			"ShaderMapHash": "D84647C9F0313506AD6E3E49DD9DD8AFEFA7B354",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Stuck_Snow_Decal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "568219CA08AD45027E6FD52937D87330485ABFE3",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCS"
+			]
+		},
+		{
+			"ShaderMapHash": "A98628CB01DCB7804D825B938DC1EB8BBCC3BA6D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_A"
+			]
+		},
+		{
+			"ShaderMapHash": "7ABE58CBAB0DE46DC0E52212422A31189AE1F88E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KC"
+			]
+		},
+		{
+			"ShaderMapHash": "908920CD4C7449F6B5CACDF8A31987716343E4AD",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KA"
+			]
+		},
+		{
+			"ShaderMapHash": "1498C2CD4AB922809108D3C5B034CE0FAD833A46",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCA"
+			]
+		},
+		{
+			"ShaderMapHash": "E65617CEC2C0070FB627027D91134DFD810838CF",
+			"Assets": [
+				"/Game/Materials/RalMats/RAL_1021",
+				"/Game/Materials/RalMats/RAL_6024",
+				"/Game/Materials/RalMats/RAL_9011"
+			]
+		},
+		{
+			"ShaderMapHash": "6D1959CF1A4F1C6F1CA044D7701EBE8D6BA8D8ED",
+			"Assets": [
+				"/Interchange/Materials/SubsurfaceMaterial_MR"
+			]
+		},
+		{
+			"ShaderMapHash": "682383CF591C2AF5943C9EFCC9078A0FC2307767",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/LightningFlare_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3917B2CFF8963B3C7E10A4F2D3E0E3D66B7EDD24",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAD"
+			]
+		},
+		{
+			"ShaderMapHash": "299BE1CFC19B8D9C1D69F28ACCF8E45EDDB3F6D4",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "1BD24DD0D718B357CFDF4148B372458C0C3056A4",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Radial_Storm_Weather_Draw"
+			]
+		},
+		{
+			"ShaderMapHash": "999FC7D1421CEA44F5C94542109FB0C7D6DCD0BD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "47C7D2D1DA01E180CE85B1E6A1B0DA73FB2CE6A3",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/WidgetMaterials/M_Widget3DPassThroughDisabledDepth"
+			]
+		},
+		{
+			"ShaderMapHash": "915746D332E94A53CC761A93B62C21718F6147FC",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_Default",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_FFTFF",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_K"
+			]
+		},
+		{
+			"ShaderMapHash": "9CB887D337964CF29DC242634C2355300AB3442C",
+			"Assets": [
+				"/Game/VRE/Misc/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E00B4DD48F689BEACFC36FEE1C442445AF168488",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCDO"
+			]
+		},
+		{
+			"ShaderMapHash": "51EB6CD4FF3555354134AE64B35321F24C47E256",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCS"
+			]
+		},
+		{
+			"ShaderMapHash": "2D5F9DD5C5173E2C3B1CC9728C367916F43331A2",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KS"
+			]
+		},
+		{
+			"ShaderMapHash": "8E4442D6792EEC437DDFAF86A8277A529B36C15B",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "F609A6D6A6AF0CFACA91C5D7525D74401B36C364",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_A"
+			]
+		},
+		{
+			"ShaderMapHash": "8F8162D810014223EBF083AF581E5A307E36992E",
+			"Assets": [
+				"/Game/GDXR_VR_Template/DemoContent/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC795D9CFB65D627FB1DC0DC918AB0E1E48E649",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAS"
+			]
+		},
+		{
+			"ShaderMapHash": "96E88EDBBC4C0F117FA0F1BEE69766E3A6573706",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_SimpleSkyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "490AE4DBC16FD1D44779E731B8C2139CF8FEF0D1",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CA"
+			]
+		},
+		{
+			"ShaderMapHash": "FFD405DC6D0FB39E05FDB347FBCA6B72D59942FB",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/LightningBolt_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5E8F51DC2653CA5EFD05687DF4B99FEBD118F089",
+			"Assets": [
+				"/Game/VRE/Grippables/Weapons/Misc/Slicer/01_-_Defaultg"
+			]
+		},
+		{
+			"ShaderMapHash": "79E365DC288644002AE75DB76153567502A06FE7",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAS"
+			]
+		},
+		{
+			"ShaderMapHash": "1BDA0FDD1A66BE44900DC24B6A232E7EA434880B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_Default",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_FFTFF",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_K"
+			]
+		},
+		{
+			"ShaderMapHash": "3E46EBDDDE8C3CCE53BF088A27A06ED276095DE5",
+			"Assets": [
+				"/Game/Materials/NonMetal/Concrete_Foundation",
+				"/Game/Materials/NonMetal/Road_Slab_1"
+			]
+		},
+		{
+			"ShaderMapHash": "57D4CDDE85E5AE9390420E5577F2B5A2E7091594",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCADO"
+			]
+		},
+		{
+			"ShaderMapHash": "74E61FDF1D9F44C6A5479B3B1D04D4804B77650D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAD"
+			]
+		},
+		{
+			"ShaderMapHash": "3F12D7E0CB9B4A6B83A07B149443B6434100CE49",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CADO"
+			]
+		},
+		{
+			"ShaderMapHash": "C404EAE0804676ABC1F31FAB8C0DE08F2A60B54B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CAS"
+			]
+		},
+		{
+			"ShaderMapHash": "67553DE13643447879ABA434279375A938E37B88",
+			"Assets": [
+				"/Game/Materials/RalMats/RAL_2008",
+				"/Game/Materials/RalMats/RAL_2011"
+			]
+		},
+		{
+			"ShaderMapHash": "36C292E1FFE535AA14F78B6355F4B711F5BBC89E",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "66BF16E231AE8F70344189509822AF763F95D6B9",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/DLWE_Brushes/MaskTarget_EdgeFade"
+			]
+		},
+		{
+			"ShaderMapHash": "14BF6CE27FF09039F04B33B26B695137280801DE",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Lightning_Strike"
+			]
+		},
+		{
+			"ShaderMapHash": "73396FE35FEB32E6A4FDE5A79595C89C9FF46303",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCA"
+			]
+		},
+		{
+			"ShaderMapHash": "49B57CE3AD800BFE642A535D0C7887568F8A5C8F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CDO"
+			]
+		},
+		{
+			"ShaderMapHash": "790584E3E186008CEA14167C79B90B1614754D0A",
+			"Assets": [
+				"/Game/BP/cupboard/Materials/Lable_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "527990E3D15A90DA72AEB9349FADD2E716522922",
+			"Assets": [
+				"/Game/MyContent/Hand/Material/M_Gloves",
+				"/Game/MyContent/Hand/Material/M_Gloves_R"
+			]
+		},
+		{
+			"ShaderMapHash": "8FCEF2E318737A006A4D8CDAA2062A1A277D0CD8",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5FD085E5EA0082B17EAA9549056E8AD8034D373C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAD"
+			]
+		},
+		{
+			"ShaderMapHash": "CCD889E5123D0528E4D19043718FB11487F5279F",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "64508BE52D42B37B0DA80789F3370AD79A9EC286",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Screen_Droplets"
+			]
+		},
+		{
+			"ShaderMapHash": "412A8DE5B4AAECBF20ECFDC7BCE99A4A59FFD8AF",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_B"
+			]
+		},
+		{
+			"ShaderMapHash": "C11E02E636C470F70C41FDEE4BEB1AD49BF1332E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Brush_Visualize_Wireframe"
+			]
+		},
+		{
+			"ShaderMapHash": "9EBEE4E63C38812019C834F55A63F0D42D338A1F",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CS"
+			]
+		},
+		{
+			"ShaderMapHash": "2818CAE7FECC30CD1D96973890B770AE0B6CCF71",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Obscured_Lightning"
+			]
+		},
+		{
+			"ShaderMapHash": "096590E80CEF794DDCD7EF511E12143A99C0A428",
+			"Assets": [
+				"/Game/Materials/Hand/Gloves/Gloves_Mat",
+				"/Game/Materials/Hand/LeftHand/HandLeft",
+				"/Game/Materials/Hand/RightHand/HandRight"
+			]
+		},
+		{
+			"ShaderMapHash": "544464EAEBD78AC2A95A348E614693EAC57BB1C1",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KC"
+			]
+		},
+		{
+			"ShaderMapHash": "DFD5E2EA7743CB448DD3587754C7BCEB81C93708",
+			"Assets": [
+				"/Interchange/Materials/PhongSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A60D92EB52C5BE2EADCFE5621282ECBFF6CFF4DA",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "099EC8EBE6D9F3BB8344E186930986C7296DFDA8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "9D2AD1EB8DA33F91217DA087E2959FA77F58FAA1",
+			"Assets": [
+				"/DatasmithContent/Materials/FBXImporter/VRED/MetallicCarpaint"
+			]
+		},
+		{
+			"ShaderMapHash": "D0938FECEFFE235D35108BE80C287E765900CCF2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque1"
+			]
+		},
+		{
+			"ShaderMapHash": "882093EC24F39C95C9CE358611E28ECBBCAAAB77",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Snow_Fade_Target_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "15C9E1EC196D194242FA437E55EF156739BCD88D",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_CDO"
+			]
+		},
+		{
+			"ShaderMapHash": "16BCE3EDAE11C811801B3A9593A1C2E45ABAA158",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/M_GrabFromDistance"
+			]
+		},
+		{
+			"ShaderMapHash": "4E1941EE33125359CE43302CBEE5ADCA32C518CC",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/GridMaterials/M_GridRotation",
+				"/Game/GDXR_VR_Template/Materials/GridMaterials/MI_Grid_Grey"
+			]
+		},
+		{
+			"ShaderMapHash": "87344EEECE6495C774349B831B2442046F27AA13",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Draw_Texture_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "CF7A52EE6A22397C799D02E7D91DCA290F8D3014",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_AS"
+			]
+		},
+		{
+			"ShaderMapHash": "525D7CEEB1559B8300346460CB9C8298A24B7429",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "1D5D25EF4BCE9E0DB2CE497921E52A553E9319AB",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAD",
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KADO"
+			]
+		},
+		{
+			"ShaderMapHash": "C89063EFF88BCD00AB86767B296667A988F5A2CC",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "3DF485EFA56B7D9C1398B87BCDB9F221365C1888",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Cloud_Shadows_Caustics"
+			]
+		},
+		{
+			"ShaderMapHash": "B50345F04D1FEEF553BCCE7B6D86A436BFD55A6A",
+			"Assets": [
+				"/Game/BP/SkyPanorama/Оренбург__Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB064F0839363FAC22FA8BEBF9C20CF056287F6",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCAS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F91BCF0C445D6FA026C0C64BAAA640C82840F28",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Dust"
+			]
+		},
+		{
+			"ShaderMapHash": "7BC908F12EED9C63D068D1B19447D175E5EA998E",
+			"Assets": [
+				"/Game/BP/cupboard/Materials/Material_009",
+				"/Game/cupboard/Materials/Material_009"
+			]
+		},
+		{
+			"ShaderMapHash": "F334A6F1928DEDB99B6464C298563E463086576C",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Snow_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "CEC1CAF145451776E9459A97502419556BA6155B",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7975BAF2373B1B7967A970437E5951D4C6539852",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KA"
+			]
+		},
+		{
+			"ShaderMapHash": "A1AEE6F3BBF58471BC80985BE0218CE610C63348",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KCD"
+			]
+		},
+		{
+			"ShaderMapHash": "FFEB4EF4F6A8C3BF5006CFBFFDA552AFB64E49D4",
+			"Assets": [
+				"/Game/TrainingRoom/MainGuiControllerPic_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AFC8FFF4B296AE2CBE0E7E527EE5BC101FD6CD62",
+			"Assets": [
+				"/Game/Materials/POM_Materials/Grass",
+				"/Game/Materials/POM_Materials/Snow",
+				"/Game/Materials/POM_Materials/Snow_env"
+			]
+		},
+		{
+			"ShaderMapHash": "70C36DF57BA9CD42338C5FBD6E9FA37865412218",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "5A3D70F50B706BFA9862CA53AF37B50D96A9AAD4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8327F4F5ADA4F0E36910454A0F3767434EA7138D",
+			"Assets": [
+				"/Game/OP_Dop/BP/ZRU_SWITCH/New/TextMaterial_RedLight"
+			]
+		},
+		{
+			"ShaderMapHash": "3B3A26F6181E136B1AFA0403DE479D901515D830",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_R"
+			]
+		},
+		{
+			"ShaderMapHash": "914DA7F654243569740306D95F3B0B9F264DB3D5",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KADO"
+			]
+		},
+		{
+			"ShaderMapHash": "87A4BFF6FB2AD426942D913CD83AF597768ACEE6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "B3E4E7F60C624732C4AB064AD35CE502ECAAAE83",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Lightning_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "8725FEF6AD8AED80A61078F30BC9A1E6864C1E87",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_D"
+			]
+		},
+		{
+			"ShaderMapHash": "2CD15BF742AA8AAA43B1F034C0F86A47284E4FA0",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KAD"
+			]
+		},
+		{
+			"ShaderMapHash": "64A8BBF7A462B4A4C74FD3FBB423BC0C335146DD",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Post_Process_Wind_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "73FAD0F78E7BE9F105C9390C9D6F8752C7E64277",
+			"Assets": [
+				"/Game/StaticObject/18_Cable/Isolated_Cable"
+			]
+		},
+		{
+			"ShaderMapHash": "DDE984F8E10983EE1CBA422201E5A528E4F55AFA",
+			"Assets": [
+				"/Game/Materials/Cable/GophraCable"
+			]
+		},
+		{
+			"ShaderMapHash": "8AF8D4F859E6617809F6C3DAA336F41358634F01",
+			"Assets": [
+				"/Game/BP/cupboard/Schemes/1Y",
+				"/Game/BP/cupboard/Schemes/3Y",
+				"/Game/BP/cupboard/Schemes/4Y",
+				"/Game/BP/cupboard/Schemes/5Y",
+				"/Game/cupboard/Schemes/2Y"
+			]
+		},
+		{
+			"ShaderMapHash": "CCA706F9FBD0EA8DBCB6569132883B51EE23E3AA",
+			"Assets": [
+				"/Game/Materials/Metal/Stainless_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "26D967F92C69B3D8A5F931F6B0B8446FF1D38733",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Screen_Droplets"
+			]
+		},
+		{
+			"ShaderMapHash": "BB289DF948A2F386F8AF18D962E23A091C6233A8",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_S"
+			]
+		},
+		{
+			"ShaderMapHash": "A983A4FA202AC642266CA75F5BEC7D576A085631",
+			"Assets": [
+				"/Game/Materials/NonMetal/Concrete_Area1"
+			]
+		},
+		{
+			"ShaderMapHash": "F38BA8FA7A5090836E8086F2A514D9075786107E",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Weather/Rainbow_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8522FBFA385EB6E709142922DBA381932876BDFA",
+			"Assets": [
+				"/Game/Materials/fency/Fencing_NetOLD/Fencing_Net-opacity_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "EEB91AFB2FC2BE133AFFF1F0A87E94B229994EA8",
+			"Assets": [
+				"/Game/Materials/NonMetal/Isolator_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "9C4F3CFB4E5CCC6D8567865FF32CB4BD00BE05D3",
+			"Assets": [
+				"/Interchange/Materials/LambertSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "666242FB1C9E84D55DFB4ABE231D94F46580D6BA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "91A656FB295C07A516311AD72730005A5AB7B77B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Space/Instances/Space_Planet_AR"
+			]
+		},
+		{
+			"ShaderMapHash": "298AD0FB2671B41345BEAA0DE93735AC795D199E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "142CD2FB1559483507563C43A1A4D1C45ABDCEA3",
+			"Assets": [
+				"/Game/UltraDynamicSky/Particles/Rain"
+			]
+		},
+		{
+			"ShaderMapHash": "FF3A76FCC468814EC1DD2C0AC6EE034E56F08E92",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Global_Volumetric_Fog_w_Ground_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "D87411FD4740C99C1CF316900450443DCC21FD2B",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_KS"
+			]
+		},
+		{
+			"ShaderMapHash": "621AC9FE8AA8C5E6CDCED36A1AF51B4EDC182E25",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/UDS_B"
+			]
+		},
+		{
+			"ShaderMapHash": "223926FF00E203D7D847A5E699857A55D2678D2A",
+			"Assets": [
+				"/Game/GDXR_VR_Template/Materials/SolidColours/M_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "FF18CDFF7E31B388A54DD54E936852CEE99FC95A",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Functions/UDS_Basic_LightFunction"
+			]
+		},
+		{
+			"ShaderMapHash": "4B9DD8FFA37B755AD0D496217BAAAE070DE97D48",
+			"Assets": [
+				"/Game/UltraDynamicSky/Materials/Material_Instances/Volumetric_Cloud_Shadows_Caustics"
+			]
+		}
+	]
+}

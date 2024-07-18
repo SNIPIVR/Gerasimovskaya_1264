@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Gerasimovskaya_1264.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gerasimovskaya_1264.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Gerasimovskaya_1264Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\MainExcel.xlsx" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultDeviceProfiles.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BLUI-Unreal">
+      <UniqueIdentifier>{6C04F7AB-B25A-3656-A924-DB27C3718126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BLUI-Unreal\Source">
+      <UniqueIdentifier>{2F49DEFC-6082-38C4-9C7D-A46E3185E6BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\BLUI-Unreal\Source\BluLoader">
+      <UniqueIdentifier>{A55D5368-46DB-3C2A-9A3C-8AB575794E81}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BLUI-Unreal\Source\BluLoader\BluLoader.Build.cs">
+      <Filter>Plugins\BLUI-Unreal\Source\BluLoader</Filter>
+    </None>
+    <Filter Include="Plugins\BLUI-Unreal\Source\BluLoader\Private">
+      <UniqueIdentifier>{3FF00C70-86F9-3EF3-BA42-87F0556A1929}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\BluLoader\Private\BluLoader.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\BluLoader\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\BLUI-Unreal\Source\BluLoader\Public">
+      <UniqueIdentifier>{42E3A630-F0CC-3150-AE52-EA2841F9C193}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\BluLoader\Public\IBluLoader.h">
+      <Filter>Plugins\BLUI-Unreal\Source\BluLoader\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\BLUI-Unreal\BLUI.uplugin">
+      <Filter>Plugins\BLUI-Unreal</Filter>
+    </None>
+    <Filter Include="Plugins\BLUI-Unreal\Resources">
+      <UniqueIdentifier>{6518CADF-87AE-3025-8253-F0EDCD7BE220}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BLUI-Unreal\Resources\Icon128.png">
+      <Filter>Plugins\BLUI-Unreal\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\OpenXRExpansionPlugin">
+      <UniqueIdentifier>{F07056FB-289A-3CDB-A200-D79FB9259A57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenXRExpansionPlugin\OpenXRExpansionPlugin.uplugin">
+      <Filter>Plugins\OpenXRExpansionPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Config">
+      <UniqueIdentifier>{4C2FAED9-6F4C-3139-997F-7411C27B75DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenXRExpansionPlugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\OpenXRExpansionPlugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Resources">
+      <UniqueIdentifier>{C72CFEB3-DEE1-38FE-9505-C3CD4A0391EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenXRExpansionPlugin\Resources\Icon128.png">
+      <Filter>Plugins\OpenXRExpansionPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\VRExpansionPlugin">
+      <UniqueIdentifier>{48A2680F-A84D-3F9F-B09E-91B258EF8045}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRExpansionPlugin\VRExpansionPlugin.uplugin">
+      <Filter>Plugins\VRExpansionPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\VRExpansionPlugin\Config">
+      <UniqueIdentifier>{8FBA16AA-A8B6-341E-9E07-B5278D8CE3EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRExpansionPlugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\VRExpansionPlugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\VRExpansionPlugin\Resources">
+      <UniqueIdentifier>{BD9AC1B0-0B32-3728-B0B9-170DB74AD29C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRExpansionPlugin\Resources\Icon128.png">
+      <Filter>Plugins\VRExpansionPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\BLUI-Unreal\Source\Blu">
+      <UniqueIdentifier>{51B02C99-6BF2-3941-BA17-9810B6619B2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Blu.Build.cs">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu</Filter>
+    </None>
+    <Filter Include="Plugins\BLUI-Unreal\Source\Blu\Private">
+      <UniqueIdentifier>{CB9DB433-D27F-331D-A149-8EDD3A0B6DC0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Private\Blu.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Private\BluBluprintFunctionLibrary.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Private\BluEye.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Private\BluJsonObj.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Private\BluManager.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Private\RenderHandler.cpp">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\BLUI-Unreal\Source\Blu\Public">
+      <UniqueIdentifier>{F83E515F-F7D1-36D5-9E12-7FA6175E05E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\BluBlueprintFunctionLibrary.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\BluEye.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\BluJsonObj.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\BluManager.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\BluTypes.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\CEFInclude.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\IBlu.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\BLUI-Unreal\Source\Blu\Public\RenderHandler.h">
+      <Filter>Plugins\BLUI-Unreal\Source\Blu\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source">
+      <UniqueIdentifier>{230FC4F6-CF2C-3D85-AB18-0A5DFC32DBD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor">
+      <UniqueIdentifier>{C1128926-1AB0-3D4A-985F-CCD1975FE3DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\OpenXRExpansionEditor.Build.cs">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor</Filter>
+    </None>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private">
+      <UniqueIdentifier>{18223D65-A1ED-3E07-8E26-7D17BE0AD105}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private\AnimGraphNode_ApplyOpenXRHandPose.cpp">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private\OpenXRExpansionEditor.cpp">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public">
+      <UniqueIdentifier>{93C98FBB-AFA0-3F59-8150-BAAD0C43E841}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\AnimGraphNode_ApplyOpenXRHandPose.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public\OpenXRExpansionEditor.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin">
+      <UniqueIdentifier>{0571C8DD-E4A7-3055-BEBF-5E3DB99D8793}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\OpenXRExpansionPlugin.Build.cs">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private">
+      <UniqueIdentifier>{4779052F-28AE-31EC-AF88-08FFC9ED4BDB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private\AnimNode_ApplyOpenXRHandPose.cpp">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private\OpenXRExpansionFunctionLibrary.cpp">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private\OpenXRExpansionPlugin.cpp">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private\OpenXRHandPoseComponent.cpp">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public">
+      <UniqueIdentifier>{F9132FBB-D324-3D2F-BE44-1997C8BC7F2D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\AnimNode_ApplyOpenXRHandPose.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionFunctionLibrary.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionPlugin.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRExpansionTypes.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public\OpenXRHandPoseComponent.h">
+      <Filter>Plugins\OpenXRExpansionPlugin\Source\OpenXRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRExpansionPlugin\Source">
+      <UniqueIdentifier>{9749E424-5CA9-312A-9CD9-8A93730800FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionEditor">
+      <UniqueIdentifier>{0B97EA5B-1A49-3CC8-B948-6AF04E69877D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\VRExpansionEditor.Build.cs">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor</Filter>
+    </None>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private">
+      <UniqueIdentifier>{B933481E-2AF5-37C8-8AAC-CFB88292E9E8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private\HandSocketComponentDetails.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private\HandSocketVisualizer.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private\VRExpansionEditor.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private\VRGlobalSettingsDetails.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public">
+      <UniqueIdentifier>{824D0441-84F4-359B-8613-D5ABBB812563}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public\HandSocketComponentDetails.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public\HandSocketVisualizer.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public\VRExpansionEditor.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public\VRGlobalSettingsDetails.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin">
+      <UniqueIdentifier>{268EA701-900D-3A0D-B745-D68B112BF3BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\VRExpansionPlugin.Build.cs">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private">
+      <UniqueIdentifier>{B5C83762-3FD3-37DE-ACB2-DB57C6BE1DDD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\CharacterMovementCompTypes.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripMotionControllerComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\ParentRelativeAttachmentComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\ReplicatedVRCameraComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRAIController.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRBaseCharacter.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRBaseCharacterMovementComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRBPDatatypes.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRCharacter.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRCharacterMovementComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRExpansionFunctionLibrary.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRExpansionPlugin.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRExpansionPluginPrivatePCH.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRGestureComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRGlobalSettings.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRGripInterface.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRPathFollowingComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRPlayerController.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRRootComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRStereoWidgetComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\VRTrackedParentInterface.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables">
+      <UniqueIdentifier>{0031771E-0F63-3A71-896B-43ED73AE0F7A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableActor.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableBoxComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableCapsuleComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableCharacter.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableDataTypes.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippablePhysicsReplication.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableSkeletalMeshActor.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableSkeletalMeshComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableSphereComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableStaticMeshActor.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\GrippableStaticMeshComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables\HandSocketComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Grippables</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts">
+      <UniqueIdentifier>{374ED134-6906-366A-ABFD-716FFF766084}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\GS_Default.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\GS_GunTools.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\GS_InteractibleSettings.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\GS_LerpToHand.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\GS_Melee.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\GS_Physics.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts\VRGripScriptBase.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\GripScripts</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles">
+      <UniqueIdentifier>{D6CE5321-29BB-325E-BE8D-9377EEF2B24C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles\VRButtonComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles\VRDialComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles\VRInteractibleFunctionLibrary.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles\VRLeverComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles\VRMountComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles\VRSliderComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Interactibles</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc">
+      <UniqueIdentifier>{74379BFD-CB35-38D2-8892-C25834EC6816}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\BucketUpdateSubsystem.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\CollisionIgnoreSubsystem.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\OptionalRepSkeletalMeshActor.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\VRAIPerceptionOverrides.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\VREPhysicalAnimationComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\VRFullScreenUserWidget.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\VRLogComponent.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\VRPlayerStart.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc\VRRenderTargetManager.cpp">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private\Misc</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public">
+      <UniqueIdentifier>{E59DF766-B996-39EA-996F-AD1FA9D54097}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\CharacterMovementCompTypes.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ParentRelativeAttachmentComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\ReplicatedVRCameraComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRAIController.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacterMovementComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacterMovementComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionPlugin.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGestureComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGripInterface.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRRootComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRStereoWidgetComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRTrackedParentInterface.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables">
+      <UniqueIdentifier>{A03593D8-ED15-37BE-894F-B0E5395F75B4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableActor.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableBoxComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableCapsuleComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableCharacter.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableDataTypes.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippablePhysicsReplication.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableSkeletalMeshActor.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableSkeletalMeshComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableSphereComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableStaticMeshActor.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\GrippableStaticMeshComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables\HandSocketComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts">
+      <UniqueIdentifier>{B26D9959-223B-3E8E-B5D9-75FD6AE99598}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Default.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_GunTools.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_InteractibleSettings.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_LerpToHand.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Melee.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\GS_Physics.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts\VRGripScriptBase.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles">
+      <UniqueIdentifier>{2CAB7FB0-0B2B-3067-9530-F5BC71137EB4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles\VRButtonComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles\VRDialComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles\VRInteractibleFunctionLibrary.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles\VRLeverComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles\VRMountComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles\VRSliderComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc">
+      <UniqueIdentifier>{8681A6BE-DE0F-3D24-BF89-308A460B0B2C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\BucketUpdateSubsystem.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\CollisionIgnoreSubsystem.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\OptionalRepSkeletalMeshActor.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRAIPerceptionOverrides.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VREPhysicalAnimationComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VREPhysicsConstraintComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRFullScreenUserWidget.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRGameViewportClient.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRLogComponent.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRPlayerStart.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRRenderTargetManager.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRVehiclePawn.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc\VRWheeledVehicle.h">
+      <Filter>Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gerasimovskaya_1264">
+      <UniqueIdentifier>{72594BC0-A697-3189-911F-E463F85228C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gerasimovskaya_1264\Gerasimovskaya_1264.Build.cs">
+      <Filter>Source\Gerasimovskaya_1264</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Gerasimovskaya_1264\Gerasimovskaya_1264.cpp">
+      <Filter>Source\Gerasimovskaya_1264</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gerasimovskaya_1264\Gerasimovskaya_1264.h">
+      <Filter>Source\Gerasimovskaya_1264</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gerasimovskaya_1264\MyClass.cpp">
+      <Filter>Source\Gerasimovskaya_1264</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gerasimovskaya_1264\MyClass.h">
+      <Filter>Source\Gerasimovskaya_1264</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gerasimovskaya_1264\Private">
+      <UniqueIdentifier>{621F125B-AF07-3661-A4B4-A24436ADD7A1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gerasimovskaya_1264\Private\MyClass1.cpp">
+      <Filter>Source\Gerasimovskaya_1264\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gerasimovskaya_1264\Private\MyClass2.cpp">
+      <Filter>Source\Gerasimovskaya_1264\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gerasimovskaya_1264\Private\Test.cpp">
+      <Filter>Source\Gerasimovskaya_1264\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Gerasimovskaya_1264\Public">
+      <UniqueIdentifier>{0E116D5C-6F17-3BE5-9BEC-C61471980657}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Gerasimovskaya_1264\Public\MyClass1.h">
+      <Filter>Source\Gerasimovskaya_1264\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gerasimovskaya_1264\Public\MyClass2.h">
+      <Filter>Source\Gerasimovskaya_1264\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gerasimovskaya_1264\Public\Test.h">
+      <Filter>Source\Gerasimovskaya_1264\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
