@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gerasimovskaya_1264\\plugins\\fsr2.2.1\\fsr2-530\\fsr2\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fsr2\\module.fsr2.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gerasimovskaya_1264\\intermediate\\build\\win64\\x64\\gerasimovskaya_1264\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\gerasimovskaya_1264\\plugins\\fsr2.2.1\\fsr2-530\\fsr2\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fsr2\\definitions.fsr2.h",
+            "d:\\gerasimovskaya_1264\\plugins\\fsr2.2.1\\fsr2-530\\fsr2\\source\\fsr2\\private\\fsr2.cpp",
+            "d:\\gerasimovskaya_1264\\plugins\\fsr2.2.1\\fsr2-530\\fsr2\\source\\fsr2\\public\\fsr2.h",
+            "d:\\gerasimovskaya_1264\\plugins\\fsr2.2.1\\fsr2-530\\fsr2\\source\\fsr2temporalupscaling\\public\\fsr2viewextension.h",
+            "c:\\ue5_3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "c:\\ue5_3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "c:\\ue5_3\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\sceneviewextensioncontext.generated.h",
+            "c:\\ue5_3\\ue_5.3\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "c:\\ue5_3\\ue_5.3\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

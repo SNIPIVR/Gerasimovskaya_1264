@@ -2871,6 +2871,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Compositing/OpenColorIO/OpenColorIO.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Compression/OodleNetwork/OodleNetwork.uplugin",
 			"Type": "UFS"
 		},
@@ -2891,6 +2895,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertUI/ConcertSharedSlate/ConcertSharedSlate.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Developer/PluginUtils/PluginUtils.uplugin",
 			"Type": "UFS"
 		},
@@ -2904,6 +2912,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Editor/BlueprintHeaderView/BlueprintHeaderView.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Editor/ConsoleVariablesEditor/ConsoleVariables.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3124,6 +3136,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/MovieScene/MovieRenderPipeline/MovieRenderPipeline.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3665,6 +3681,14 @@
 		{
 			"Path": "$(ProjectDir)/Plugins/BLUI-Unreal/ThirdParty/cef/Win/shipping/v8_context_snapshot.bin",
 			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/FSR2.2.1/FSR2-530/FSR2MovieRenderPipeline/FSR2MovieRenderPipeline.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/FSR2.2.1/FSR2-530/FSR2/FSR2.uplugin",
+			"Type": "UFS"
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/OpenXRExpansionPlugin/OpenXRExpansionPlugin.uplugin",
