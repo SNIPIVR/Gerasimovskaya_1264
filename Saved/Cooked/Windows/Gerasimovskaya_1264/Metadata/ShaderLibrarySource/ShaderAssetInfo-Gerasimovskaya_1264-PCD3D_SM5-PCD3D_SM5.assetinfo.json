@@ -696,10 +696,8 @@
 			"ShaderMapHash": "E5FD5E3CADCE9D97E917A58560073ECDFCECA619",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/BP/All_key/Plastic",
 				"/Game/BP/All_key/RAL_7036",
 				"/Game/BP/All_key/Stainless_Steel",
-				"/Game/BP/All_key/TextPlace_Birka",
 				"/Game/BP/cupboard/Materials/Display",
 				"/Game/BP/cupboard/Materials/Gr_buttons",
 				"/Game/BP/cupboard/Materials/Green_Light",
