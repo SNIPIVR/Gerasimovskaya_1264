@@ -29,8 +29,10 @@
 			"ShaderMapHash": "2DA30304340E15A635D34BAB9390C73AA91656EA",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/BP/All_key/Plastic",
 				"/Game/BP/All_key/RAL_7036",
 				"/Game/BP/All_key/Stainless_Steel",
+				"/Game/BP/All_key/TextPlace_Birka",
 				"/Game/BP/cupboard/Materials/Display",
 				"/Game/BP/cupboard/Materials/Gr_buttons",
 				"/Game/BP/cupboard/Materials/Green_Light",
@@ -536,6 +538,11 @@
 			"Assets": [
 				"/AnimationSharing/AnimSharingBase",
 				"/Game/Animation/VL110/Cable_Ice",
+				"/Game/BP/DisconnectKnives/03_02_A/Isolator_Porcelain_Gray_006",
+				"/Game/BP/DisconnectKnives/03_02_A/RAL_9003_017",
+				"/Game/BP/DisconnectKnives/03_02_A/RAL_9003_018",
+				"/Game/BP/DisconnectKnives/03_02_A/Stainless_Steel_017",
+				"/Game/BP/DisconnectKnives/03_02_A/Stainless_Steel_018",
 				"/Game/cupboard/ZRU_1000/RAL_9003_001",
 				"/Game/MyContent/Dynamic/Mech/Stainless_Steel",
 				"/Game/StaticObject/DopObject/Interior/Phone/Cisco_Phone_CP_6941_red"
@@ -1568,6 +1575,7 @@
 				"/Game/cupboard/Materials/Green_Light_Emissive",
 				"/Game/cupboard/Materials/Indicator_Emission",
 				"/Game/cupboard/Materials/Red_Light_Emissive",
+				"/Game/StaticObject/ScenarioObject/Camera/Material_Imissive",
 				"/Game/VRE/Grippables/Misc/Examples/Button/Green"
 			]
 		},
@@ -2605,6 +2613,8 @@
 				"/Game/BP/cupboard/Props/М_Bresler_297x221mm_Mat",
 				"/Game/BP/cupboard/Props/М_Bresler_297x221mm_Mat_V2",
 				"/Game/BP/cupboard/Schemes/1Y_Scheme",
+				"/Game/BP/IndicatorCell/Ind_Green_Mat",
+				"/Game/BP/IndicatorCell/Ind_Red_Mat",
 				"/Game/BP/Not_Include/Material_014",
 				"/Game/cupboard/Cupboar_Element/SET-4TM",
 				"/Game/cupboard/Materials/Bresler",
